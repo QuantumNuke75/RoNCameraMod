@@ -8611,35 +8611,3 @@ Script Stack (0 frames):
 [2022.06.23-02.02.18:583][614]LogOutputDevice: Error: [Callstack] 0x00007ffafff854e0 KERNEL32.DLL!UnknownFunction []
 [2022.06.23-02.02.18:583][614]LogOutputDevice: Error: [Callstack] 0x00007ffb0112485b ntdll.dll!UnknownFunction []
 [2022.06.23-02.02.18:583][614]LogOutputDevice: Error: 
-[2022.06.23-02.02.18:586][614]LogStats:                SubmitErrorReport -  0.000 s
-[2022.06.23-02.02.19:721][614]LogStats:                    SendNewReport -  1.135 s
-[2022.06.23-02.02.19:721][614]LogStats:             FDebug::EnsureFailed -  1.620 s
-[2022.06.23-02.02.19:729][614]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
-[2022.06.23-02.02.19:738][614]BlueprintLog: New page: Compile W_Main
-[2022.06.23-02.02.19:813][614]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
-[2022.06.23-02.02.19:854][614]BlueprintLog: New page: Compile W_Main
-[2022.06.23-02.02.19:929][614]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
-[2022.06.23-02.02.19:964][614]BlueprintLog: New page: Compile W_Main
-[2022.06.23-02.02.20:040][614]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
-[2022.06.23-02.02.20:076][614]BlueprintLog: New page: Compile W_Main
-[2022.06.23-02.02.20:153][614]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
-[2022.06.23-02.02.20:225][614]LogSlate: Took 0.000101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
-[2022.06.23-02.02.30:565][562]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
-[2022.06.23-02.02.30:621][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
-[2022.06.23-02.02.30:629][562]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/NewMapB7DB8D66490F2D602101B7917F4413E9.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap.umap'
-[2022.06.23-02.02.30:636][562]LogFileHelpers: Saving map 'NewMap' took 0.045
-[2022.06.23-02.02.30:728][562]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/W_Main0EBD821C4B2394007ECDA08BCA9B4DB7.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Main.uasset'
-[2022.06.23-02.02.30:742][562]AssetCheck: New page: Asset Save: multiple assets
-[2022.06.23-02.02.30:742][562]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Main.W_Main
-[2022.06.23-02.02.30:750][562]LogContentValidation: Display: Validating World /Game/DevelopmentTestMap/NewMap.NewMap
-[2022.06.23-02.02.31:299][625]BlueprintLog: New page: Compile W_Main
-[2022.06.23-02.02.31:387][625]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
-[2022.06.23-02.02.32:092][690]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/W_MainDCBFB344435A020ACCB2EDAA5576E395.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Main.uasset'
-[2022.06.23-02.02.32:106][690]AssetCheck: New page: Asset Save: W_Main
-[2022.06.23-02.02.32:106][690]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Main.W_Main
-[2022.06.23-02.02.40:547][681]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
-[2022.06.23-02.02.40:604][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
-[2022.06.23-02.02.40:612][681]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/NewMap1A3ECCBE46AB52350347C7AFA725C59E.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap.umap'
-[2022.06.23-02.02.40:620][681]LogFileHelpers: Saving map 'NewMap' took 0.045
-[2022.06.23-02.02.40:636][681]AssetCheck: New page: Asset Save: NewMap
-[2022.06.23-02.02.40:637][681]LogContentValidation: Display: Validating World /Game/DevelopmentTestMap/NewMap.NewMap
