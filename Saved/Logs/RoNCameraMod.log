@@ -7927,3 +7927,136 @@ Script Stack (0 frames):
 [2022.06.22-23.33.40:086][ 79]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/NewMap_Auto20001227542560C9DA093348AD2BACF24.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/Autosaves/Game/DevelopmentTestMap/NewMap_Auto2.umap'
 [2022.06.22-23.33.40:086][ 79]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DevelopmentTestMap/NewMap' took 0.054
 [2022.06.22-23.33.40:087][ 79]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.054
+[2022.06.22-23.41.05:021][408]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.06.22-23.58.46:257][571]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.06.23-01.41.06:642][326]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawn1B45AD5F4A9C09E1C84E06BBB29E0783.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.23-01.41.06:751][326]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.23-01.41.06:752][326]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.23-01.41.08:767][502]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2022.06.23-01.41.08:789][502]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/NewMap1187CF7A42B0EE16DC9B5A9D79BEB0BB.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap.umap'
+[2022.06.23-01.41.08:800][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DevelopmentTestMap/NewMap_BuiltData" FILE="../../../../../Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap_BuiltData.uasset" SILENT=true
+[2022.06.23-01.41.08:826][502]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/NewMap_BuiltDataB97677714115C7F18FDC93A4E106C9F2.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap_BuiltData.uasset'
+[2022.06.23-01.41.08:837][502]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.23-01.41.08:837][502]LogContentValidation: Display: Validating World /Game/DevelopmentTestMap/NewMap.NewMap
+[2022.06.23-01.41.08:837][502]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/DevelopmentTestMap/NewMap_BuiltData.NewMap_BuiltData
+[2022.06.23-01.46.29:284][538]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.06.23-01.47.09:124][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.06.23-01.47.09:168][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.06.23-01.47.09:175][954]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/NewMap3F1ED5374EDF77AFE16D6BA7E51DAD77.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap.umap'
+[2022.06.23-01.47.09:182][954]LogFileHelpers: Saving map 'NewMap' took 0.043
+[2022.06.23-01.47.09:250][954]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/QuantumActor88B971B34A2EB1A65AAA28A9FFF5BD6E.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/QuantumActor.uasset'
+[2022.06.23-01.47.09:265][954]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.23-01.47.09:265][954]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/QuantumActor.QuantumActor
+[2022.06.23-01.47.09:265][954]LogContentValidation: Display: Validating World /Game/DevelopmentTestMap/NewMap.NewMap
+[2022.06.23-01.47.15:018][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.06.23-01.47.18:796][990]BlueprintLog: New page: Compile QuantumActor
+[2022.06.23-01.47.18:874][990]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.06.23-01.47.19:252][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2022.06.23-01.47.19:301][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.06.23-01.47.19:309][ 11]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/NewMap0B4492E34EC043561E49B5BA762E81E3.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap.umap'
+[2022.06.23-01.47.19:316][ 11]LogFileHelpers: Saving map 'NewMap' took 0.043
+[2022.06.23-01.47.19:330][ 11]AssetCheck: New page: Asset Save: NewMap
+[2022.06.23-01.47.19:330][ 11]LogContentValidation: Display: Validating World /Game/DevelopmentTestMap/NewMap.NewMap
+[2022.06.23-01.48.11:622][946]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawn806A4F0F4BB57F3F7B5BA4AD1260DC2A.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.23-01.48.11:639][946]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.23-01.48.11:639][946]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.23-01.48.16:617][455]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/W_SettingsF81F65134D22998E59BDDF8BD6CCBA02.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Settings.uasset'
+[2022.06.23-01.48.16:631][455]AssetCheck: New page: Asset Save: W_Settings
+[2022.06.23-01.48.16:631][455]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Settings.W_Settings
+[2022.06.23-01.48.40:849][190]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.06.23-01.48.48:339][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.06.23-01.48.48:448][ 80]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/W_Main421E5B374AB64C5AC66E88B871A1A883.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Main.uasset'
+[2022.06.23-01.48.48:463][ 80]AssetCheck: New page: Asset Save: W_Main
+[2022.06.23-01.48.48:464][ 80]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Main.W_Main
+[2022.06.23-01.48.50:542][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.06.23-01.48.52:678][581]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 251614
+[2022.06.23-01.48.52:678][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-01.48.52:693][582]LogSlate: Took 0.005753 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.06.23-01.48.52:699][582]LogSlate: Took 0.003676 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.06.23-01.48.52:705][582]LogSlate: Took 0.003684 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.23-01.48.52:708][582]LogSlate: Took 0.002924 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.06.23-01.48.52:713][582]LogSlate: Took 0.004045 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.06.23-01.48.52:722][582]LogSlate: Took 0.004498 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.06.23-01.48.55:746][941]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 360
+[2022.06.23-01.48.55:746][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-01.48.55:751][942]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.06.23-01.48.55:752][942]LogSlate: Took 0.000072 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.06.23-01.48.55:754][942]LogSlate: Took 0.000070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.23-01.48.55:755][942]LogSlate: Took 0.000064 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.06.23-01.48.55:756][942]LogSlate: Took 0.000061 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.06.23-01.48.55:763][942]LogSlate: Took 0.000094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.06.23-01.49.00:922][559]BlueprintLog: New page: Compile W_Main
+[2022.06.23-01.49.01:136][559]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.06.23-01.49.01:570][590]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/W_MainA407B94D40331C194188EBA22F644E5E.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Main.uasset'
+[2022.06.23-01.49.01:586][590]AssetCheck: New page: Asset Save: W_Main
+[2022.06.23-01.49.01:586][590]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Main.W_Main
+[2022.06.23-01.49.01:637][591]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2022.06.23-01.49.01:693][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.06.23-01.49.01:701][591]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/NewMap52E0EBB64C0CBD1CF0E12181E9E86BAA.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap.umap'
+[2022.06.23-01.49.01:708][591]LogFileHelpers: Saving map 'NewMap' took 0.042
+[2022.06.23-01.49.01:722][591]AssetCheck: New page: Asset Save: NewMap
+[2022.06.23-01.49.01:722][591]LogContentValidation: Display: Validating World /Game/DevelopmentTestMap/NewMap.NewMap
+[2022.06.23-01.50.22:535][874]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/W_Main447BD9E9416B8A31FD70A4AB27E99E9D.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Main.uasset'
+[2022.06.23-01.50.22:550][874]AssetCheck: New page: Asset Save: W_Main
+[2022.06.23-01.50.22:550][874]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Main.W_Main
+[2022.06.23-01.50.33:745][212]LogSlate: Took 0.006174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.06.23-01.56.23:726][728]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.23-01.56.23:731][728]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.23-01.56.23:732][728]PIE: New page: PIE session: NewMap (Jun 22, 2022, 11:56:23 AM)
+[2022.06.23-01.56.23:732][728]LogPlayLevel: Creating play world package: /Game/DevelopmentTestMap/UEDPIE_0_NewMap
+[2022.06.23-01.56.23:753][728]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020807s)
+[2022.06.23-01.56.23:754][728]LogAIModule: Creating AISystem for world NewMap
+[2022.06.23-01.56.23:755][728]LogPlayLevel: PIE: World Init took: (0.001317s)
+[2022.06.23-01.56.23:755][728]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DevelopmentTestMap/NewMap.NewMap to /Game/DevelopmentTestMap/UEDPIE_0_NewMap.NewMap (0.022359s)
+[2022.06.23-01.56.23:792][728]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.06.23-01.56.23:799][728]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2022.06.23-01.56.23:799][728]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.23-01.56.23:799][728]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.23-01.56.23:799][728]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.23-01.56.23:799][728]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.23-01.56.23:799][728]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.23-01.56.23:799][728]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.23-01.56.23:799][728]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.23-01.56.23:799][728]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.23-01.56.23:799][728]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.23-01.56.23:799][728]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.23-01.56.23:799][728]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.23-01.56.23:799][728]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.23-01.56.23:804][728]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.23-01.56.23:804][728]LogAudioMixer: Display: 1: FrontRight
+[2022.06.23-01.56.23:804][728]LogAudioMixer: Display: 2: FrontCenter
+[2022.06.23-01.56.23:804][728]LogAudioMixer: Display: 3: LowFrequency
+[2022.06.23-01.56.23:804][728]LogAudioMixer: Display: 4: BackLeft
+[2022.06.23-01.56.23:804][728]LogAudioMixer: Display: 5: BackRight
+[2022.06.23-01.56.23:804][728]LogAudioMixer: Display: 6: SideLeft
+[2022.06.23-01.56.23:804][728]LogAudioMixer: Display: 7: SideRight
+[2022.06.23-01.56.23:814][728]LogAudioMixer: Display: Using Audio Device Speakers (3- Logitech G935/G933s Gaming Headset)
+[2022.06.23-01.56.23:817][728]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.23-01.56.23:817][728]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.23-01.56.23:817][728]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.23-01.56.23:819][728]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.23-01.56.23:819][728]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.23-01.56.23:819][728]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.06.23-01.56.23:819][728]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.23-01.56.23:819][728]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.23-01.56.23:819][728]LogInit: FAudioDevice initialized.
+[2022.06.23-01.56.23:819][728]LogAudio: Display: Audio Device (ID: 33) registered with world 'NewMap'.
+[2022.06.23-01.56.23:832][728]LogLoad: Game class is 'GM_COOP_BarricadedSuspects_C'
+[2022.06.23-01.56.23:833][728]LogWorld: Bringing World /Game/DevelopmentTestMap/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2022.06.22-18.56.23
+[2022.06.23-01.56.23:833][728]LogWorld: Bringing up level for play took: 0.000791
+[2022.06.23-01.56.23:834][728]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2022.06.23-01.56.23:841][728]PIE: Server logged in
+[2022.06.23-01.56.23:842][728]PIE: Play in editor total start time 0.111 seconds.
+[2022.06.23-01.56.31:117][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.23-01.56.31:117][592]LogWorld: BeginTearingDown for /Game/DevelopmentTestMap/UEDPIE_0_NewMap
+[2022.06.23-01.56.31:117][592]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.23-01.56.31:117][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-01.56.31:123][592]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.23-01.56.31:133][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.23-01.56.31:162][592]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.23-01.56.31:162][592]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.23-01.56.31:163][592]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.23-01.56.31:164][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.23-01.56.31:168][592]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.06.23-01.56.31:196][593]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2022.06.23-01.56.31:982][684]LogSlate: Took 0.003701 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
