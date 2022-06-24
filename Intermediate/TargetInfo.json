@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "RoNCameraMod",
+			"Path": "C:\\Users\\quant\\Documents\\Unreal Projects\\RoNCameraMod\\Source\\RoNCameraMod.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RoNCameraModEditor",
+			"Path": "C:\\Users\\quant\\Documents\\Unreal Projects\\RoNCameraMod\\Source\\RoNCameraModEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

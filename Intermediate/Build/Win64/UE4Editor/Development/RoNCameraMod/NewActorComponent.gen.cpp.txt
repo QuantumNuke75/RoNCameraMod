@@ -1,0 +1,5 @@
+C:\Users\quant\Documents\Unreal Projects\RoNCameraMod\Intermediate\Build\Win64\UE4Editor\Development\RoNCameraMod\Definitions.RoNCameraMod.h
+C:\Users\quant\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Users\quant\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\quant\Documents\Unreal Projects\RoNCameraMod\Source\RoNCameraMod/NewActorComponent.h
+C:\Users\quant\Documents\Unreal Projects\RoNCameraMod\Intermediate\Build\Win64\UE4Editor\Inc\RoNCameraMod\NewActorComponent.generated.h

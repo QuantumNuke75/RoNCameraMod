@@ -1,0 +1,17 @@
+
+*.db
+.vs/RoNCameraMod/v17/ipch/3ea380f4db348484.ipch
+Intermediate/Build/Win64/RoNCameraModEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.h.pch
+*.db-shm
+*.db-wal
+.vs/RoNCameraMod/v17/.suo
+*.opendb
+*.target
+*.modules
+*.pdb
+*.dll
+*.log
+*.log
+*.log
+*.csv
+*.bin

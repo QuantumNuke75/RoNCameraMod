@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\RoNCameraMod.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{D8214159-C3C2-4AD2-8F92-01266DD84104}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RoNCameraMod.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\RoNCameraModEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\LICENSE" />
+    <None Include="..\..\README.md" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{DBA4F945-D015-4F09-9412-598AA279ADCA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\RoNCameraMod">
+      <UniqueIdentifier>{4ECFE21E-9DF5-4A5E-B937-627DB1776209}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\RoNCameraMod\NewActorComponent.cpp">
+      <Filter>Source\RoNCameraMod</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RoNCameraMod\NewActorComponent.h">
+      <Filter>Source\RoNCameraMod</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\RoNCameraMod\RoNCameraMod.Build.cs">
+      <Filter>Source\RoNCameraMod</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\RoNCameraMod\RoNCameraMod.cpp">
+      <Filter>Source\RoNCameraMod</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RoNCameraMod\RoNCameraMod.h">
+      <Filter>Source\RoNCameraMod</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

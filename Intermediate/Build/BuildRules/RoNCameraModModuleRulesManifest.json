@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\quant\\Documents\\Unreal Projects\\RoNCameraMod\\Source\\RoNCameraMod\\RoNCameraMod.Build.cs",
+		"C:\\Users\\quant\\Documents\\Unreal Projects\\RoNCameraMod\\Source\\RoNCameraMod.Target.cs",
+		"C:\\Users\\quant\\Documents\\Unreal Projects\\RoNCameraMod\\Source\\RoNCameraModEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

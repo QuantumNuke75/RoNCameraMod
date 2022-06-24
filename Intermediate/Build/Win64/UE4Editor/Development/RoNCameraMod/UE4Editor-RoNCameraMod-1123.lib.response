@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-RoNCameraMod-1123.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\quant\Documents\Unreal Projects\RoNCameraMod\Intermediate\Build\Win64\RoNCameraModEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\quant\Documents\Unreal Projects\RoNCameraMod\Intermediate\Build\Win64\UE4Editor\Development\RoNCameraMod\NewActorComponent.cpp.obj"
+"C:\Users\quant\Documents\Unreal Projects\RoNCameraMod\Intermediate\Build\Win64\UE4Editor\Development\RoNCameraMod\RoNCameraMod.cpp.obj"
+"C:\Users\quant\Documents\Unreal Projects\RoNCameraMod\Intermediate\Build\Win64\UE4Editor\Development\RoNCameraMod\NewActorComponent.gen.cpp.obj"
+"C:\Users\quant\Documents\Unreal Projects\RoNCameraMod\Intermediate\Build\Win64\UE4Editor\Development\RoNCameraMod\RoNCameraMod.init.gen.cpp.obj"
+"C:\Users\quant\Documents\Unreal Projects\RoNCameraMod\Intermediate\Build\Win64\UE4Editor\Development\RoNCameraMod\Default.rc2.res"
+/OUT:"C:\Users\quant\Documents\Unreal Projects\RoNCameraMod\Intermediate\Build\Win64\UE4Editor\Development\RoNCameraMod\UE4Editor-RoNCameraMod-1123.lib"
