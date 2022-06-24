@@ -2920,3 +2920,86 @@ Make sure 'W_Settings_C' has been compiled for  Get AttachPointName
 [2022.06.24-03.10.02:002][585]UATHelper: Cooking (Windows (64-bit)): ********** COOK COMMAND COMPLETED **********
 [2022.06.24-03.10.02:002][585]UATHelper: Cooking (Windows (64-bit)): BUILD SUCCESSFUL
 [2022.06.24-03.10.02:002][585]UATHelper: Cooking (Windows (64-bit)): AutomationTool exiting with ExitCode=0 (Success)
+[2022.06.24-03.25.56:568][820]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{5453df67-74ec-450e-ae6d-e6b378711783}.
+[2022.06.24-03.25.56:568][820]LogAudioMixer: Resetting audio stream to device id 
+[2022.06.24-03.25.56:577][820]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.24-03.25.56:578][820]LogAudioMixer: Display: 1: FrontRight
+[2022.06.24-03.25.56:578][820]LogAudioMixer: Display: 2: FrontCenter
+[2022.06.24-03.25.56:578][820]LogAudioMixer: Display: 3: LowFrequency
+[2022.06.24-03.25.56:578][820]LogAudioMixer: Display: 4: BackLeft
+[2022.06.24-03.25.56:578][820]LogAudioMixer: Display: 5: BackRight
+[2022.06.24-03.25.56:578][820]LogAudioMixer: Display: 6: SideLeft
+[2022.06.24-03.25.56:578][820]LogAudioMixer: Display: 7: SideRight
+[2022.06.24-03.54.17:770][913]LogUObjectHash: Compacting FUObjectHashTables data took  12.89ms
+[2022.06.24-03.54.17:774][913]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DevelopmentTestMap/NewMap' took 0.250
+[2022.06.24-03.54.17:776][913]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/QuantumActor] ([2] browsable assets)...
+[2022.06.24-03.54.17:776][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/QuantumActor]
+[2022.06.24-03.54.17:798][913]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/QuantumActor_Auto165F5893743389254232306B82841E8DC.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/Autosaves/Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/QuantumActor_Auto1.uasset'
+[2022.06.24-03.54.17:799][913]LogFileHelpers: Auto-saving content packages took 0.024
+[2022.06.24-04.02.39:651][621]BlueprintLog: New page: Compile QuantumActor
+[2022.06.24-04.02.39:743][621]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2022.06.24-04.02.40:473][696]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2022.06.24-04.02.40:542][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.06.24-04.02.40:554][696]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/NewMap99E8301A48C2C3BBF541BFABBB3C5C78.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap.umap'
+[2022.06.24-04.02.40:573][696]LogFileHelpers: Saving map 'NewMap' took 0.074
+[2022.06.24-04.02.40:589][696]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/QuantumActorD6E044D345115D0E70ED8C94149A0244.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/QuantumActor.uasset'
+[2022.06.24-04.02.40:614][696]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.24-04.02.40:614][696]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/QuantumActor.QuantumActor
+[2022.06.24-04.02.40:614][696]LogContentValidation: Display: Validating World /Game/DevelopmentTestMap/NewMap.NewMap
+[2022.06.24-04.03.05:869][834]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.06.24-04.03.05:920][834]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/QuantumActorC764AA8C42E08809872EF2A92D0EF20D.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/QuantumActor.uasset'
+[2022.06.24-04.03.05:936][834]AssetCheck: New page: Asset Save: QuantumActor
+[2022.06.24-04.03.05:936][834]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/QuantumActor.QuantumActor
+[2022.06.24-04.12.50:700][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.06.24-04.12.50:738][320]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/QuantumActorD7566D1B4B9474151E57E190EB16FBF7.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/QuantumActor.uasset'
+[2022.06.24-04.12.50:754][320]AssetCheck: New page: Asset Save: QuantumActor
+[2022.06.24-04.12.50:754][320]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/QuantumActor.QuantumActor
+[2022.06.24-04.12.51:260][378]BlueprintLog: New page: Compile QuantumActor
+[2022.06.24-04.12.51:330][378]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2022.06.24-04.12.51:721][414]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/QuantumActor5032D84C42388F3CD1256B87DAED4352.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/QuantumActor.uasset'
+[2022.06.24-04.12.51:739][414]AssetCheck: New page: Asset Save: QuantumActor
+[2022.06.24-04.12.51:739][414]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/QuantumActor.QuantumActor
+[2022.06.24-04.12.51:904][428]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2022.06.24-04.12.51:967][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.06.24-04.12.51:976][428]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/NewMapB7A2441448468DE284609D8742B5BEB5.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap.umap'
+[2022.06.24-04.12.51:986][428]LogFileHelpers: Saving map 'NewMap' took 0.061
+[2022.06.24-04.12.52:000][428]AssetCheck: New page: Asset Save: NewMap
+[2022.06.24-04.12.52:000][428]LogContentValidation: Display: Validating World /Game/DevelopmentTestMap/NewMap.NewMap
+[2022.06.24-04.45.54:998][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.06.24-04.46.03:464][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.06.24-04.46.05:960][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.06.24-06.08.06:718][528]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2022.06.24-06.08.06:718][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.24-06.08.06:831][528]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2022.06.24-06.08.06:831][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.24-06.08.53:054][761]BlueprintLog: New page: Compile W_Settings
+[2022.06.24-06.08.53:667][761]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2022.06.24-06.08.53:907][761]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/W_Settings7774425D471BF0CCF7D637B39DEA2F2C.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Settings.uasset'
+[2022.06.24-06.08.53:922][761]AssetCheck: New page: Asset Save: W_Settings
+[2022.06.24-06.08.53:922][761]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Settings.W_Settings
+[2022.06.24-06.08.54:812][846]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/W_SettingsF34D6241446D773F6782249A53CE5F2C.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Settings.uasset'
+[2022.06.24-06.08.54:825][846]AssetCheck: New page: Asset Save: W_Settings
+[2022.06.24-06.08.54:825][846]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Settings.W_Settings
+[2022.06.24-06.09.32:208][213]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2022.06.24-06.09.32:219][213]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/NewMap_Auto292EE3B484C7092C9374F0C80EA8C9192.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/Autosaves/Game/DevelopmentTestMap/NewMap_Auto2.umap'
+[2022.06.24-06.09.32:219][213]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DevelopmentTestMap/NewMap' took 0.106
+[2022.06.24-06.09.32:220][213]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.106
+[2022.06.24-06.10.36:755][975]BlueprintLog: New page: Compile W_Settings
+[2022.06.24-06.10.36:857][975]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2022.06.24-06.10.37:440][ 11]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/W_SettingsD0A1ED2746F30A5F9E480F9DDF6F40A7.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Settings.uasset'
+[2022.06.24-06.10.37:453][ 11]AssetCheck: New page: Asset Save: W_Settings
+[2022.06.24-06.10.37:453][ 11]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Settings.W_Settings
+[2022.06.24-06.10.42:714][602]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2022.06.24-06.10.42:723][602]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/NewMapE35F73B84618CAF08046B191D89F0CFC.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap.umap'
+[2022.06.24-06.10.42:732][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DevelopmentTestMap/NewMap_BuiltData" FILE="../../../../../Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap_BuiltData.uasset" SILENT=true
+[2022.06.24-06.10.42:756][602]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/NewMap_BuiltData956146394A25FCC621B14DBEADB5A847.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap_BuiltData.uasset'
+[2022.06.24-06.10.42:767][602]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.24-06.10.42:767][602]LogContentValidation: Display: Validating World /Game/DevelopmentTestMap/NewMap.NewMap
+[2022.06.24-06.10.42:767][602]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/DevelopmentTestMap/NewMap_BuiltData.NewMap_BuiltData
+[2022.06.24-06.10.43:063][626]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.06.24-06.13.42:906][510]LogEditorTransaction: Undo Make New Scene Root
+[2022.06.24-06.13.43:492][519]LogEditorTransaction: Undo Add Component
+[2022.06.24-06.13.44:642][571]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2022.06.24-06.13.44:810][571]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawnDCFE04AB4EB00FDEF0BB7DB18973639E.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.24-06.13.44:824][571]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.24-06.13.44:824][571]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
