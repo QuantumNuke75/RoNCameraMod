@@ -1,76 +1,76 @@
 "C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/expander.uasset" 0
 "C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/expander.uexp" 1
-"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/color_wheel.uasset" 2
-"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/color_wheel.uexp" 3
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 4
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 5
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 2
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 3
+"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/color_wheel.uasset" 4
+"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/color_wheel.uexp" 5
 "C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_ColorSelector.uasset" 6
 "C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_ColorSelector.uexp" 7
-"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/PointLight/CustomPointLight.uasset" 8
-"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/PointLight/CustomPointLight.uexp" 9
-"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/ValueSlider.uasset" 10
-"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/ValueSlider.uexp" 11
-"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/CameraSaveGame.uasset" 12
-"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/CameraSaveGame.uexp" 13
-"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/bobber.uasset" 14
-"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/bobber.uexp" 15
-"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Characters/AI/CyberneticsSwat_V2.uasset" 16
-"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Characters/AI/CyberneticsSwat_V2.uexp" 17
-"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Characters/BasePlayer.uasset" 18
-"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Characters/BasePlayer.uexp" 19
-"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/Fonts/BebasNeue-Regular.uasset" 20
-"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/Fonts/BebasNeue-Regular.uexp" 21
-"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/Fonts/BebasNeue-Regular.ufont" 22
-"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/Fonts/F_ReadyOrNot.uasset" 23
-"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/Fonts/F_ReadyOrNot.uexp" 24
-"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_TeleportPoint.uasset" 25
-"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_TeleportPoint.uexp" 26
-"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/PointLight/W_SimplePointLight.uasset" 27
-"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/PointLight/W_SimplePointLight.uexp" 28
-"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_HelmetAttachmentPoint.uasset" 29
-"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_HelmetAttachmentPoint.uexp" 30
-"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_CameraSaveSlot.uasset" 31
-"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_CameraSaveSlot.uexp" 32
-"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Settings.uasset" 33
-"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Settings.uexp" 34
-"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset" 35
-"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uexp" 36
-"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 37
-"../../../Engine/Content/EngineMaterials/DefaultNormal.uexp" 38
-"../../../Engine/Content/EngineMaterials/DefaultNormal.ubulk" 39
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 40
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uexp" 41
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.ubulk" 42
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 43
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uexp" 44
-"../../../Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset" 45
-"../../../Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uexp" 46
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 47
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uexp" 48
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont" 49
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 50
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uexp" 51
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont" 52
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 53
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uexp" 54
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.ufont" 55
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 56
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uexp" 57
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont" 58
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 59
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uexp" 60
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont" 61
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 62
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp" 63
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont" 64
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 65
-"../../../Engine/Content/EngineFonts/Roboto.uexp" 66
-"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Main.uasset" 67
-"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Main.uexp" 68
-"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/QuantumActor.uasset" 69
-"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/QuantumActor.uexp" 70
-"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_PermanentOverlay_Real.uasset" 71
-"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_PermanentOverlay_Real.uexp" 72
+"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_PermanentOverlay_Real.uasset" 8
+"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_PermanentOverlay_Real.uexp" 9
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 10
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uexp" 11
+"../../../Engine/Content/EngineMaterials/DefaultNormal.ubulk" 12
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 13
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uexp" 14
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.ubulk" 15
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 16
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uexp" 17
+"../../../Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset" 18
+"../../../Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uexp" 19
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 20
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uexp" 21
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont" 22
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 23
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uexp" 24
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont" 25
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 26
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uexp" 27
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.ufont" 28
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 29
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uexp" 30
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont" 31
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 32
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uexp" 33
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont" 34
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 35
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp" 36
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont" 37
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 38
+"../../../Engine/Content/EngineFonts/Roboto.uexp" 39
+"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/CameraSaveGame.uasset" 40
+"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/CameraSaveGame.uexp" 41
+"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/Fonts/BebasNeue-Regular.uasset" 42
+"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/Fonts/BebasNeue-Regular.uexp" 43
+"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/Fonts/BebasNeue-Regular.ufont" 44
+"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/Fonts/F_ReadyOrNot.uasset" 45
+"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/Fonts/F_ReadyOrNot.uexp" 46
+"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset" 47
+"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uexp" 48
+"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_CameraSaveSlot.uasset" 49
+"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_CameraSaveSlot.uexp" 50
+"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_TeleportPoint.uasset" 51
+"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_TeleportPoint.uexp" 52
+"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Characters/BasePlayer.uasset" 53
+"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Characters/BasePlayer.uexp" 54
+"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Characters/AI/CyberneticsSwat_V2.uasset" 55
+"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Characters/AI/CyberneticsSwat_V2.uexp" 56
+"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_HelmetAttachmentPoint.uasset" 57
+"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_HelmetAttachmentPoint.uexp" 58
+"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/ValueSlider.uasset" 59
+"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/ValueSlider.uexp" 60
+"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/PointLight/CustomPointLight.uasset" 61
+"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/PointLight/CustomPointLight.uexp" 62
+"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/bobber.uasset" 63
+"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/bobber.uexp" 64
+"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Settings.uasset" 65
+"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Settings.uexp" 66
+"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/PointLight/W_SimplePointLight.uasset" 67
+"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/PointLight/W_SimplePointLight.uexp" 68
+"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Main.uasset" 69
+"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Main.uexp" 70
+"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/QuantumActor.uasset" 71
+"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/QuantumActor.uexp" 72
 "C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_PermanentOverlay.uasset" 73
 "C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_PermanentOverlay.uexp" 74
 "../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 75
@@ -300,12 +300,12 @@
 "../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.ubulk" 299
 "../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 300
 "../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uexp" 301
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 302
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uexp" 303
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 304
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uexp" 305
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 306
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uexp" 307
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 302
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uexp" 303
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 304
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uexp" 305
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 306
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uexp" 307
 "../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 308
 "../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uexp" 309
 "../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 310
@@ -398,27 +398,27 @@
 "../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uexp" 397
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 398
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 399
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 400
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 401
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 402
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 403
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 404
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 405
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 406
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 407
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 408
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 409
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 410
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 411
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 412
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 413
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 414
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 415
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 416
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 417
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 418
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 419
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 420
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 400
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 401
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 402
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 403
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 404
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 405
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 406
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 407
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 408
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 409
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 410
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 411
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 412
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 413
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 414
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 415
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 416
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 417
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 418
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 419
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 420
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 421
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 422
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 423
@@ -439,14 +439,14 @@
 "../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uexp" 438
 "../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 439
 "../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uexp" 440
-"../../../Engine/Content/EngineResources/Black.uasset" 441
-"../../../Engine/Content/EngineResources/Black.uexp" 442
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.uasset" 443
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.uexp" 444
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.ubulk" 445
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.uasset" 446
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.uexp" 447
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.ubulk" 448
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.uasset" 441
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.uexp" 442
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.ubulk" 443
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.uasset" 444
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.uexp" 445
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.ubulk" 446
+"../../../Engine/Content/EngineResources/Black.uasset" 447
+"../../../Engine/Content/EngineResources/Black.uexp" 448
 "../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/M_XRController.uasset" 449
 "../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/M_XRController.uexp" 450
 "../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MI_GoogleDaydream.uasset" 451
@@ -535,22 +535,22 @@
 "../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/MI_right_ValveIndex.uexp" 534
 "../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/right_ValveIndexController.uasset" 535
 "../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/right_ValveIndexController.uexp" 536
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 537
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uexp" 538
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 539
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uexp" 540
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 537
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uexp" 538
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 539
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uexp" 540
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 541
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uexp" 542
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 543
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uexp" 544
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 545
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uexp" 546
-"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 547
-"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uexp" 548
-"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.ubulk" 549
-"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 550
-"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uexp" 551
-"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.ubulk" 552
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 547
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uexp" 548
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.ubulk" 549
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 550
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uexp" 551
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.ubulk" 552
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 553
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uexp" 554
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 555
@@ -568,34 +568,34 @@
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uexp" 567
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uasset" 568
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uexp" 569
-"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Games/COOPModes/GM_COOP_BarricadedSuspects.uasset" 570
-"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Games/COOPModes/GM_COOP_BarricadedSuspects.uexp" 571
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 572
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 573
-"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 574
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 575
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 576
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 577
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 578
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 579
-"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 580
-"../../../Engine/Content/BasicShapes/Cube.uasset" 581
-"../../../Engine/Content/BasicShapes/Cube.uexp" 582
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 583
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 584
-"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap_BuiltData.uasset" 585
-"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap_BuiltData.uexp" 586
-"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap_BuiltData.ubulk" 587
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 588
-"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 589
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 590
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp" 591
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 592
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 593
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 594
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 595
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 596
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 597
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 570
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 571
+"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 572
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 573
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 574
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 575
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 576
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 577
+"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 578
+"../../../Engine/Content/BasicShapes/Cube.uasset" 579
+"../../../Engine/Content/BasicShapes/Cube.uexp" 580
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 581
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 582
+"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap_BuiltData.uasset" 583
+"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap_BuiltData.uexp" 584
+"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap_BuiltData.ubulk" 585
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 586
+"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 587
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 588
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp" 589
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 590
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 591
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 592
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 593
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 594
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 595
+"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Games/COOPModes/GM_COOP_BarricadedSuspects.uasset" 596
+"C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Games/COOPModes/GM_COOP_BarricadedSuspects.uexp" 597
 "C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap.uexp" 598
 "C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap.umap" 599
 "../../../Engine/Content/Maps/Entry_BuiltData.uasset" 600

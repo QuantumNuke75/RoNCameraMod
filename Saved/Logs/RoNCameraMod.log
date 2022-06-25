@@ -12417,3 +12417,959 @@ Make sure 'SaveGameSettings_C' has been compiled for  Get CineCamera
 [2022.06.25-02.19.18:814][655]LogFileHelpers: Saving map 'NewMap' took 0.046
 [2022.06.25-02.19.18:825][655]AssetCheck: New page: Asset Save: NewMap
 [2022.06.25-02.19.18:825][655]LogContentValidation: Display: Validating World /Game/DevelopmentTestMap/NewMap.NewMap
+[2022.06.25-02.20.43:566][541]BlueprintLog: New page: Compile W_Settings
+[2022.06.25-02.20.43:684][541]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2022.06.25-02.20.44:343][586]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/W_Settings3385CB074190EC61F3EE158B18A62239.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Settings.uasset'
+[2022.06.25-02.20.44:356][586]AssetCheck: New page: Asset Save: W_Settings
+[2022.06.25-02.20.44:356][586]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Settings.W_Settings
+[2022.06.25-02.21.48:434][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2022.06.25-02.21.48:446][ 94]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/NewMap45254E6A40D0B4CF63B330A189A064D5.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap.umap'
+[2022.06.25-02.21.48:454][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DevelopmentTestMap/NewMap_BuiltData" FILE="../../../../../Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap_BuiltData.uasset" SILENT=true
+[2022.06.25-02.21.48:475][ 94]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/NewMap_BuiltData6BDA657249C8ACA46DBA2082948AB05B.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap_BuiltData.uasset'
+[2022.06.25-02.21.48:486][ 94]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.25-02.21.48:486][ 94]LogContentValidation: Display: Validating World /Game/DevelopmentTestMap/NewMap.NewMap
+[2022.06.25-02.21.48:486][ 94]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/DevelopmentTestMap/NewMap_BuiltData.NewMap_BuiltData
+[2022.06.25-02.22.20:185][998]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.25-02.22.20:190][998]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.25-02.22.20:190][998]PIE: New page: PIE session: NewMap (Jun 24, 2022, 12:22:20 PM)
+[2022.06.25-02.22.20:238][998]LogPlayLevel: Creating play world package: /Game/DevelopmentTestMap/UEDPIE_0_NewMap
+[2022.06.25-02.22.20:241][998]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003126s)
+[2022.06.25-02.22.20:242][998]LogAIModule: Creating AISystem for world NewMap
+[2022.06.25-02.22.20:242][998]LogPlayLevel: PIE: World Init took: (0.000982s)
+[2022.06.25-02.22.20:242][998]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DevelopmentTestMap/NewMap.NewMap to /Game/DevelopmentTestMap/UEDPIE_0_NewMap.NewMap (0.004251s)
+[2022.06.25-02.22.20:274][998]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.06.25-02.22.20:276][998]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2022.06.25-02.22.20:276][998]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.25-02.22.20:277][998]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.25-02.22.20:277][998]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.25-02.22.20:277][998]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.25-02.22.20:277][998]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.25-02.22.20:277][998]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.25-02.22.20:277][998]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.25-02.22.20:277][998]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.25-02.22.20:277][998]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.25-02.22.20:277][998]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.25-02.22.20:277][998]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.25-02.22.20:277][998]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.25-02.22.20:281][998]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.25-02.22.20:281][998]LogAudioMixer: Display: 1: FrontRight
+[2022.06.25-02.22.20:281][998]LogAudioMixer: Display: 2: FrontCenter
+[2022.06.25-02.22.20:281][998]LogAudioMixer: Display: 3: LowFrequency
+[2022.06.25-02.22.20:281][998]LogAudioMixer: Display: 4: BackLeft
+[2022.06.25-02.22.20:281][998]LogAudioMixer: Display: 5: BackRight
+[2022.06.25-02.22.20:281][998]LogAudioMixer: Display: 6: SideLeft
+[2022.06.25-02.22.20:281][998]LogAudioMixer: Display: 7: SideRight
+[2022.06.25-02.22.20:290][998]LogAudioMixer: Display: Using Audio Device Speakers (3- Logitech G935/G933s Gaming Headset)
+[2022.06.25-02.22.20:290][998]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.25-02.22.20:290][998]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.25-02.22.20:290][998]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.25-02.22.20:291][998]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.25-02.22.20:291][998]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.25-02.22.20:291][998]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.06.25-02.22.20:292][998]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.25-02.22.20:292][998]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.25-02.22.20:292][998]LogInit: FAudioDevice initialized.
+[2022.06.25-02.22.20:292][998]LogAudio: Display: Audio Device (ID: 24) registered with world 'NewMap'.
+[2022.06.25-02.22.20:298][998]LogLoad: Game class is 'GM_COOP_BarricadedSuspects_C'
+[2022.06.25-02.22.20:299][998]LogWorld: Bringing World /Game/DevelopmentTestMap/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2022.06.24-19.22.20
+[2022.06.25-02.22.20:299][998]LogWorld: Bringing up level for play took: 0.000645
+[2022.06.25-02.22.20:299][998]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2022.06.25-02.22.20:307][998]PIE: Server logged in
+[2022.06.25-02.22.20:308][998]PIE: Play in editor total start time 0.119 seconds.
+[2022.06.25-02.22.21:475][137]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.06.25-02.22.21:475][137]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.06.25-02.22.21:476][137]Cmd: r.Motionblurquality 4
+[2022.06.25-02.22.21:476][137]r.MotionBlurQuality = "4"
+[2022.06.25-02.22.29:541][105]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.06.25-02.22.29:541][105]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.06.25-02.22.31:258][311]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.06.25-02.22.31:258][311]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.06.25-02.22.31:259][311]Cmd: r.Motionblurquality 4
+[2022.06.25-02.22.31:259][311]r.MotionBlurQuality = "4"
+[2022.06.25-02.22.40:169][377]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.06.25-02.22.40:169][377]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.06.25-02.22.40:735][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-02.22.40:735][441]LogWorld: BeginTearingDown for /Game/DevelopmentTestMap/UEDPIE_0_NewMap
+[2022.06.25-02.22.40:736][441]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.25-02.22.40:736][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.25-02.22.40:742][441]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.25-02.22.40:746][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.25-02.22.40:775][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-02.22.40:775][441]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.25-02.22.40:776][441]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.25-02.22.40:781][441]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.06.25-02.22.40:807][442]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2022.06.25-02.22.41:561][521]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.06.25-02.22.43:464][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.06.25-02.35.21:606][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.06.25-02.35.31:072][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.25-02.36.51:112][579]BlueprintLog: New page: Compile P_DebugPawn
+[2022.06.25-02.36.51:213][579]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2022.06.25-02.36.51:807][595]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawn68F43B474B715671D22477B3C63995AD.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-02.36.51:822][595]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-02.36.51:822][595]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-02.37.11:259][620]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawnD6EAC6EF46BE541C5AAF569CB9EFB09E.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-02.37.11:274][620]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-02.37.11:274][620]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-02.41.22:067][273]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2022.06.25-02.51.58:317][851]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/W_Settings2796AFCA45419BCB15D4219753B0BA56.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Settings.uasset'
+[2022.06.25-02.51.58:333][851]AssetCheck: New page: Asset Save: W_Settings
+[2022.06.25-02.51.58:333][851]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Settings.W_Settings
+[2022.06.25-02.52.10:649][222]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/W_CameraSaveSlot6140CB9E4C9F44C6E4FEE490CEB538A5.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_CameraSaveSlot.uasset'
+[2022.06.25-02.52.10:660][222]AssetCheck: New page: Asset Save: W_CameraSaveSlot
+[2022.06.25-02.52.10:660][222]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_CameraSaveSlot.W_CameraSaveSlot
+[2022.06.25-02.52.23:062][594]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/CameraSaveGame4C0D14F74048D546A8C835891DB74F47.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/CameraSaveGame.uasset'
+[2022.06.25-02.52.23:076][594]AssetCheck: New page: Asset Save: CameraSaveGame
+[2022.06.25-02.52.23:076][594]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/CameraSaveGame.CameraSaveGame
+[2022.06.25-02.52.23:277][610]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.06.25-02.52.34:745][912]BlueprintLog: New page: Compile W_Settings
+[2022.06.25-02.52.35:054][912]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.06.25-02.52.35:484][913]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/W_Settings31025D2F4743181FFB8EB5862E46E9A8.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Settings.uasset'
+[2022.06.25-02.52.35:499][913]AssetCheck: New page: Asset Save: W_Settings
+[2022.06.25-02.52.35:499][913]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Settings.W_Settings
+[2022.06.25-02.52.37:034][ 52]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/W_SettingsF03EA5974C1E4E7A1F5A12824AE991A8.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Settings.uasset'
+[2022.06.25-02.52.37:049][ 52]AssetCheck: New page: Asset Save: W_Settings
+[2022.06.25-02.52.37:049][ 52]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Settings.W_Settings
+[2022.06.25-02.52.39:741][344]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2022.06.25-02.52.39:792][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.06.25-02.52.39:800][344]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/NewMap585DC565410F471E02B2D1956818E409.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap.umap'
+[2022.06.25-02.52.39:807][344]LogFileHelpers: Saving map 'NewMap' took 0.044
+[2022.06.25-02.52.39:820][344]AssetCheck: New page: Asset Save: NewMap
+[2022.06.25-02.52.39:820][344]LogContentValidation: Display: Validating World /Game/DevelopmentTestMap/NewMap.NewMap
+[2022.06.25-02.53.48:801][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.06.25-02.53.48:926][ 23]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/W_Main51C0AD264BB5EA9FADE0E4B75A974672.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Main.uasset'
+[2022.06.25-02.53.48:941][ 23]AssetCheck: New page: Asset Save: W_Main
+[2022.06.25-02.53.48:941][ 23]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Main.W_Main
+[2022.06.25-02.53.49:535][ 79]BlueprintLog: New page: Compile W_Main
+[2022.06.25-02.53.49:796][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.06.25-02.53.50:086][ 80]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/W_Main62A7B10A4F915684F4A111A7EA2D42F1.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Main.uasset'
+[2022.06.25-02.53.50:101][ 80]AssetCheck: New page: Asset Save: W_Main
+[2022.06.25-02.53.50:101][ 80]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Main.W_Main
+[2022.06.25-02.53.53:885][489]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2022.06.25-02.53.53:931][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.06.25-02.53.53:939][489]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/NewMapD7D5824146AAACE7B9FDBDAFE698F0E7.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap.umap'
+[2022.06.25-02.53.53:947][489]LogFileHelpers: Saving map 'NewMap' took 0.043
+[2022.06.25-02.53.53:957][489]AssetCheck: New page: Asset Save: NewMap
+[2022.06.25-02.53.53:957][489]LogContentValidation: Display: Validating World /Game/DevelopmentTestMap/NewMap.NewMap
+[2022.06.25-02.53.56:366][735]UATHelper: Cooking (Windows (64-bit)): Running AutomationTool...
+[2022.06.25-02.53.56:633][741]UATHelper: Cooking (Windows (64-bit)): Parsing command line: -ScriptsForProject="C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/RoNCameraMod.uproject" BuildCookRun -nocompileeditor -installed -nop4 -project="C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/RoNCameraMod.uproject" -cook -skipstage -ue4exe="C:\Users\quant\Epic Games\UE_4.27\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -targetplatform=Win64 -ddc=InstalledDerivedDataBackendGraph -utf8output
+[2022.06.25-02.53.58:550][791]UATHelper: Cooking (Windows (64-bit)): Setting up ProjectParams for C:\Users\quant\Documents\Unreal Projects\RoNCameraMod\RoNCameraMod.uproject
+[2022.06.25-02.53.58:855][793]UATHelper: Cooking (Windows (64-bit)): ********** COOK COMMAND STARTED **********
+[2022.06.25-02.53.58:855][793]UATHelper: Cooking (Windows (64-bit)): Running UE4Editor Cook for project C:\Users\quant\Documents\Unreal Projects\RoNCameraMod\RoNCameraMod.uproject
+[2022.06.25-02.53.58:855][793]UATHelper: Cooking (Windows (64-bit)): Commandlet log file is C:\Users\quant\Epic Games\UE_4.27\Engine\Programs\AutomationTool\Saved\Cook-2022.06.24-19.53.58.txt
+[2022.06.25-02.53.58:855][793]UATHelper: Cooking (Windows (64-bit)): Running: C:\Users\quant\Epic Games\UE_4.27\Engine\Binaries\Win64\UE4Editor-Cmd.exe "C:\Users\quant\Documents\Unreal Projects\RoNCameraMod\RoNCameraMod.uproject" -run=Cook  -TargetPlatform=WindowsNoEditor -fileopenlog -ddc=InstalledDerivedDataBackendGraph -unversioned -abslog="C:\Users\quant\Epic Games\UE_4.27\Engine\Programs\AutomationTool\Saved\Cook-2022.06.24-19.53.58.txt" -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2022.06.25-02.53.59:854][796]UATHelper: Cooking (Windows (64-bit)):   LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2022.06.25-02.53.59:854][796]UATHelper: Cooking (Windows (64-bit)):   LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2022.06.25-02.53.59:854][796]UATHelper: Cooking (Windows (64-bit)):   LogInit: Display: Running engine for game: RoNCameraMod
+[2022.06.25-02.54.00:526][798]UATHelper: Cooking (Windows (64-bit)):   LogInit: Display: Loading text-based GConfig....
+[2022.06.25-02.54.02:205][803]UATHelper: Cooking (Windows (64-bit)):   LogHAL: Display: Platform has ~ 32 GB [34288963584 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.06.25-02.54.02:205][803]UATHelper: Cooking (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.06.25-02.54.02:205][803]UATHelper: Cooking (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.06.25-02.54.02:205][803]UATHelper: Cooking (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.06.25-02.54.02:205][803]UATHelper: Cooking (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.06.25-02.54.02:205][803]UATHelper: Cooking (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.06.25-02.54.02:205][803]UATHelper: Cooking (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.06.25-02.54.02:205][803]UATHelper: Cooking (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.06.25-02.54.02:205][803]UATHelper: Cooking (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.06.25-02.54.02:205][803]UATHelper: Cooking (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.06.25-02.54.02:205][803]UATHelper: Cooking (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.06.25-02.54.02:205][803]UATHelper: Cooking (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.06.25-02.54.02:205][803]UATHelper: Cooking (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.06.25-02.54.02:205][803]UATHelper: Cooking (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.06.25-02.54.02:541][804]UATHelper: Cooking (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.06.25-02.54.02:541][804]UATHelper: Cooking (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.06.25-02.54.02:541][804]UATHelper: Cooking (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.06.25-02.54.02:541][804]UATHelper: Cooking (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.06.25-02.54.02:541][804]UATHelper: Cooking (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.06.25-02.54.02:541][804]UATHelper: Cooking (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.06.25-02.54.02:541][804]UATHelper: Cooking (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.06.25-02.54.02:541][804]UATHelper: Cooking (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.06.25-02.54.02:541][804]UATHelper: Cooking (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.06.25-02.54.02:541][804]UATHelper: Cooking (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.06.25-02.54.02:541][804]UATHelper: Cooking (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.06.25-02.54.02:541][804]UATHelper: Cooking (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.06.25-02.54.02:541][804]UATHelper: Cooking (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.06.25-02.54.02:541][804]UATHelper: Cooking (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.06.25-02.54.02:541][804]UATHelper: Cooking (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.06.25-02.54.02:541][804]UATHelper: Cooking (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.06.25-02.54.02:541][804]UATHelper: Cooking (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.06.25-02.54.02:541][804]UATHelper: Cooking (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.06.25-02.54.02:541][804]UATHelper: Cooking (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.06.25-02.54.02:541][804]UATHelper: Cooking (Windows (64-bit)):   LogTargetPlatformManager: Display: Building Assets For WindowsNoEditor
+[2022.06.25-02.54.02:876][805]UATHelper: Cooking (Windows (64-bit)):   LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.06.25-02.54.03:212][806]UATHelper: Cooking (Windows (64-bit)):   LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.06.25-02.54.05:224][812]UATHelper: Cooking (Windows (64-bit)):   LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.06.25-02.54.07:238][818]UATHelper: Cooking (Windows (64-bit)):   LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.06.25-02.54.07:238][818]UATHelper: Cooking (Windows (64-bit)):   LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/quant/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.06.25-02.54.07:238][818]UATHelper: Cooking (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.06.25-02.54.07:238][818]UATHelper: Cooking (Windows (64-bit)):   LogDerivedDataCache: Display: Performance to C:/Users/quant/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=29.72MBs, RandomWriteSpeed=179.97MBs. Assigned SpeedClass 'Local'
+[2022.06.25-02.54.11:583][  8]UATHelper: Cooking (Windows (64-bit)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.25-02.54.11:583][  8]UATHelper: Cooking (Windows (64-bit)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.25-02.54.13:324][217]UATHelper: Cooking (Windows (64-bit)):   LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.06.25-02.54.13:324][217]UATHelper: Cooking (Windows (64-bit)):   LogCook: Display: Mobile HDR setting 1
+[2022.06.25-02.54.13:324][217]UATHelper: Cooking (Windows (64-bit)):   LogCook: Display: Creating asset registry
+[2022.06.25-02.54.13:516][240]UATHelper: Cooking (Windows (64-bit)):   LogCook: Display: Discovering localized assets for cultures: en
+[2022.06.25-02.54.13:528][241]UATHelper: Cooking (Windows (64-bit)):   LogCook: Display: Clearing all cooked content for platform WindowsNoEditor
+[2022.06.25-02.54.13:528][241]UATHelper: Cooking (Windows (64-bit)):   LogCook: Warning: Failed to move path 'C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Saved/Cooked/WindowsNoEditor' for async delete (LastError == 5); falling back to synchronous delete.
+[2022.06.25-02.54.13:528][241]PackagingResults: Warning: Failed to move path 'C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Saved/Cooked/WindowsNoEditor' for async delete (LastError == 5); falling back to synchronous delete.
+[2022.06.25-02.54.13:617][252]UATHelper: Cooking (Windows (64-bit)):   LogCook: Display: Sandbox cleanup took 0.098 seconds for platforms WindowsNoEditor
+[2022.06.25-02.54.14:383][344]UATHelper: Cooking (Windows (64-bit)):   LogShaderLibrary: Display:
+[2022.06.25-02.54.14:383][344]UATHelper: Cooking (Windows (64-bit)):   LogShaderLibrary: Display: Shader Library 'Global' (PCD3D_SM5) Stats:
+[2022.06.25-02.54.14:383][344]UATHelper: Cooking (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2022.06.25-02.54.14:384][344]UATHelper: Cooking (Windows (64-bit)):   LogShaderLibrary: Display: Assets: 1, Unique Shadermaps: 191 (19100.00%)
+[2022.06.25-02.54.14:384][344]UATHelper: Cooking (Windows (64-bit)):   LogShaderLibrary: Display: Total Shaders: 1962, Unique Shaders: 1951 (99.44%)
+[2022.06.25-02.54.14:384][344]UATHelper: Cooking (Windows (64-bit)):   LogShaderLibrary: Display: Total Shader Size: 5.10mb, Unique Shaders Size: 5.09mb (99.93%)
+[2022.06.25-02.54.14:384][344]UATHelper: Cooking (Windows (64-bit)):   LogShaderLibrary: Display: === Extended info:
+[2022.06.25-02.54.14:384][344]UATHelper: Cooking (Windows (64-bit)):   LogShaderLibrary: Display: Minimum number of shaders in shadermap: 1
+[2022.06.25-02.54.14:384][344]UATHelper: Cooking (Windows (64-bit)):   LogShaderLibrary: Display: Median number of shaders in shadermap: 3
+[2022.06.25-02.54.14:384][344]UATHelper: Cooking (Windows (64-bit)):   LogShaderLibrary: Display: Maximum number of shaders in shadermap: 264
+[2022.06.25-02.54.14:384][344]UATHelper: Cooking (Windows (64-bit)):   LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2022.06.25-02.54.14:384][344]UATHelper: Cooking (Windows (64-bit)):   LogShaderLibrary: Display:     3, 3, 2, 2, 2, 2, 2, 2, 2, 1
+[2022.06.25-02.54.14:391][345]UATHelper: Cooking (Windows (64-bit)):   LogShaderLibrary: Display: Textual dump saved to '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/Shaders/PCD3D_SM5/ShaderDebug-Global-PCD3D_SM5/Dump.txt'
+[2022.06.25-02.54.14:391][345]UATHelper: Cooking (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2022.06.25-02.54.14:584][368]UATHelper: Cooking (Windows (64-bit)):   LogCook: Display: Cooked packages 0 Packages Remain 71 Total 71
+[2022.06.25-02.54.14:584][368]UATHelper: Cooking (Windows (64-bit)):   LogCook: Display: Cook Diagnostics: OpenFileHandles=215, VirtualMemory=563MiB
+[2022.06.25-02.54.15:240][433]UATHelper: Cooking (Windows (64-bit)):   LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2022.06.25-02.54.15:825][499]UATHelper: Cooking (Windows (64-bit)):   LogCook: Display: Cooked packages 288 Packages Remain 0 Total 288
+[2022.06.25-02.54.15:825][499]UATHelper: Cooking (Windows (64-bit)):   LogCook: Display: Cook Diagnostics: OpenFileHandles=291, VirtualMemory=671MiB
+[2022.06.25-02.54.15:826][499]UATHelper: Cooking (Windows (64-bit)):   LogCook: Display: Finishing up...
+[2022.06.25-02.54.15:826][499]UATHelper: Cooking (Windows (64-bit)):   LogCook: Display: Saving BulkData manifest(s)...
+[2022.06.25-02.54.15:826][499]UATHelper: Cooking (Windows (64-bit)):   LogCook: Display: Done saving BulkData manifest(s)
+[2022.06.25-02.54.15:826][499]UATHelper: Cooking (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2022.06.25-02.54.15:826][499]UATHelper: Cooking (Windows (64-bit)):   LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2022.06.25-02.54.15:826][499]UATHelper: Cooking (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2022.06.25-02.54.15:839][501]UATHelper: Cooking (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Saving asset registry v8.
+[2022.06.25-02.54.15:856][503]UATHelper: Cooking (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Generated asset registry num assets 306, size is 95.00kb
+[2022.06.25-02.54.15:856][503]UATHelper: Cooking (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2022.06.25-02.54.15:881][506]UATHelper: Cooking (Windows (64-bit)):   LogShaderLibrary: Display:
+[2022.06.25-02.54.15:881][506]UATHelper: Cooking (Windows (64-bit)):   LogShaderLibrary: Display: Shader Library 'RoNCameraMod' (PCD3D_SM5) Stats:
+[2022.06.25-02.54.15:881][506]UATHelper: Cooking (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2022.06.25-02.54.15:881][506]UATHelper: Cooking (Windows (64-bit)):   LogShaderLibrary: Display: Assets: 54, Unique Shadermaps: 47 (87.04%)
+[2022.06.25-02.54.15:881][506]UATHelper: Cooking (Windows (64-bit)):   LogShaderLibrary: Display: Total Shaders: 1785, Unique Shaders: 1479 (82.86%)
+[2022.06.25-02.54.15:881][506]UATHelper: Cooking (Windows (64-bit)):   LogShaderLibrary: Display: Total Shader Size: 3.50mb, Unique Shaders Size: 3.00mb (85.82%)
+[2022.06.25-02.54.15:881][506]UATHelper: Cooking (Windows (64-bit)):   LogShaderLibrary: Display: === Extended info:
+[2022.06.25-02.54.15:881][506]UATHelper: Cooking (Windows (64-bit)):   LogShaderLibrary: Display: Minimum number of shaders in shadermap: 2
+[2022.06.25-02.54.15:881][506]UATHelper: Cooking (Windows (64-bit)):   LogShaderLibrary: Display: Median number of shaders in shadermap: 9
+[2022.06.25-02.54.15:881][506]UATHelper: Cooking (Windows (64-bit)):   LogShaderLibrary: Display: Maximum number of shaders in shadermap: 493
+[2022.06.25-02.54.15:881][506]UATHelper: Cooking (Windows (64-bit)):   LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2022.06.25-02.54.15:881][506]UATHelper: Cooking (Windows (64-bit)):   LogShaderLibrary: Display:     16, 11, 8, 8, 7, 7, 6, 6, 6, 5
+[2022.06.25-02.54.15:889][507]UATHelper: Cooking (Windows (64-bit)):   LogShaderLibrary: Display: Textual dump saved to '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/Shaders/PCD3D_SM5/ShaderDebug-RoNCameraMod-PCD3D_SM5/Dump.txt'
+[2022.06.25-02.54.15:889][507]UATHelper: Cooking (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2022.06.25-02.54.15:889][507]UATHelper: Cooking (Windows (64-bit)):   LogCook: Display: Cook by the book total time in tick 1.225368s total time 2.564379
+[2022.06.25-02.54.15:889][507]UATHelper: Cooking (Windows (64-bit)):   LogCook: Display: Peak Used virtual 731 MiB Peak Used physical 784 MiB
+[2022.06.25-02.54.15:889][507]UATHelper: Cooking (Windows (64-bit)):   LogCook: Display: Hierarchy Timer Information:
+[2022.06.25-02.54.15:889][507]UATHelper: Cooking (Windows (64-bit)):   LogCook: Display:   Root: 0.000s (0)
+[2022.06.25-02.54.15:889][507]UATHelper: Cooking (Windows (64-bit)):   LogCook: Display:     CleanSandbox: 0.098s (1)
+[2022.06.25-02.54.15:889][507]UATHelper: Cooking (Windows (64-bit)):   LogCook: Display:       ProcessingAccessedStrings: 0.001s (1)
+[2022.06.25-02.54.15:889][507]UATHelper: Cooking (Windows (64-bit)):   LogCook: Display:     CollectFilesToCook: 0.190s (1)
+[2022.06.25-02.54.15:889][507]UATHelper: Cooking (Windows (64-bit)):   LogCook: Display:       CookModificationDelegate: 0.000s (1)
+[2022.06.25-02.54.15:889][507]UATHelper: Cooking (Windows (64-bit)):   LogCook: Display:     GenerateLongPackageName: 0.000s (1)
+[2022.06.25-02.54.15:889][507]UATHelper: Cooking (Windows (64-bit)):   LogCook: Display:     TickCookOnTheSide: 1.225s (1011)
+[2022.06.25-02.54.15:889][507]UATHelper: Cooking (Windows (64-bit)):   LogCook: Display:       PostLoadPackageFixup: 0.001s (2409)
+[2022.06.25-02.54.15:889][507]UATHelper: Cooking (Windows (64-bit)):   LogCook: Display:       LoadPackageForCooking: 0.525s (288)
+[2022.06.25-02.54.15:889][507]UATHelper: Cooking (Windows (64-bit)):   LogCook: Display:       SavingPackages: 0.696s (41)
+[2022.06.25-02.54.15:889][507]UATHelper: Cooking (Windows (64-bit)):   LogCook: Display:         BeginPackageCacheForCookedPlatformData: 0.007s (21)
+[2022.06.25-02.54.15:889][507]UATHelper: Cooking (Windows (64-bit)):   LogCook: Display:         PrecachePlatformDataForNextPackage: 0.203s (284)
+[2022.06.25-02.54.15:889][507]UATHelper: Cooking (Windows (64-bit)):   LogCook: Display:           BeginPackageCacheForCookedPlatformData: 0.203s (267)
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCook: Display:         SaveCookedPackage: 0.452s (288)
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCook: Display:           GEditorSavePackage: 0.443s (288)
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCook: Display:             ConvertingBlueprints: 0.002s (288)
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCook: Display:             VerifyCanCookPackage: 0.001s (285)
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCook: Display:         ClearAllCachedCookedPlatformData: 0.002s (288)
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCook: Display:     FinalizePackageStore: 0.001s (1)
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCook: Display:     GeneratingBlueprintAssets: 0.001s (1)
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCook: Display:     SavingCurrentIniSettings: 0.005s (1)
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCook: Display:       ProcessingAccessedStrings: 0.001s (1)
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCook: Display:     SavingAssetRegistry: 0.051s (1)
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCook: Display:       BuildChunkManifest: 0.007s (1)
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCook: Display:       SaveManifests: 0.002s (1)
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCook: Display:       SaveRealAssetRegistry: 0.010s (1)
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCook: Display:       WriteCookerOpenOrder: 0.011s (1)
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCook: Display: Done!
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogSavePackage: Display: Took 0.000398s to verify the EDL loading graph.
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display: Misc Cook Stats
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display: ===============
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display: NiagaraShader.Misc
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display: ShaderCompiler
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:     BlockingTimeSec=0.000021
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncCompileTimeSec=0.000000
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderTimeSec=0.000000
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderCalls=0
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:     ProcessAsyncResultsTimeSec=0.000420
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader.Misc
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display: MeshMaterial.Misc
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader.Misc
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display: Package.Load
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:     NumPreloadedDependencies=43
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:     NumInlineLoads=19
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesLoaded=191
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:     LoadPackageTimeSec=1.891784
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display: CookOnTheFlyServer
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:     PeakRequestQueueSize=54
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:     PeakLoadQueueSize=212
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:     PeakSaveQueueSize=204
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display: Package.Save
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesSaved=288
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:     SavePackageTimeSec=0.409662
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsPresaveTimeSec=0.077509
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsTimeSec=0.019924
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:     FullyLoadLoadersTimeSec=0.000106
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:     ResetLoadersTimeSec=0.001031
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithOuter=0.002768
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithMarks=0.000176
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeImportsTimeSec=0.000000
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:     SortExportsSeekfreeInnerTimeSec=0.077538
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeExportsTimeSec=0.113334
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeBulkDataTimeSec=0.019735
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncWriteTimeSec=0.000000
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:     MBWritten=121.064227
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display: Package.DifferentPackagesSizeMBPerAsset
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display: Package.PackageDifferencesSizeMBPerAsset
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display: Package.DiffTotal
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferentPackages=0
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:     DifferentPackagesSizeMB=0.000000
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferencesInPackages=0
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:     PackageDifferencesSizeMB=0.000000
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display: UnversionedProperties
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:     SavedStructs=0
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:     SavedMB=0
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:     EquivalentTaggedMB=0
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:     CompressionRatio=-nan(ind)
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:     BitfieldWasteKB=0
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display: Cook Profile
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display: ============
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:  0.CookWallTimeSec=16.427804
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:  0. 0.StartupWallTimeSec=13.859738
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1.CookByTheBookTimeSec=2.567062
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0.StartCookByTheBookTimeSec=1.257407
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0. 0.GameCookModificationDelegateTimeSec=0.000009
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1.TickCookOnTheSideTimeSec=1.286858
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=0.524787
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=0.452217
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 2.TickCookOnTheSideBeginPackageCacheForCookedPlatformDataTimeSec=0.210182
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 3.TickCookOnTheSideFinishPackageCacheForCookedPlatformDataTimeSec=0.000000
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 2.TickLoopGCTimeSec=0.000000
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=0.008447
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.000257
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.000435
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.000065
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display: DDC Summary Stats
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display: =================
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHits    =       703
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display: TotalGets       =       704
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHitPct  =  0.998580
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display: LocalGetHitPct  =  0.058239
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display: SharedGetHitPct =  0.000000
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display: OtherGetHitPct  =  0.940341
+[2022.06.25-02.54.15:890][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display: GetMissPct      =  0.001420
+[2022.06.25-02.54.15:891][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHits    =         1
+[2022.06.25-02.54.15:891][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display: TotalPuts       =         1
+[2022.06.25-02.54.15:891][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHitPct  =  1.000000
+[2022.06.25-02.54.15:891][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display: PutMissPct      =  0.000000
+[2022.06.25-02.54.15:891][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display:
+[2022.06.25-02.54.15:891][507]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display: DDC Resource Stats
+[2022.06.25-02.54.15:899][508]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display: =======================================================================================================
+[2022.06.25-02.54.15:899][508]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2022.06.25-02.54.15:899][508]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2022.06.25-02.54.15:899][508]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Streaming)                             0.19                   0.00             0         49.34
+[2022.06.25-02.54.15:899][508]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader                                  0.11                   0.11             0          5.46
+[2022.06.25-02.54.15:899][508]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display: PhysX (BodySetup)                               0.04                   0.04             0          5.77
+[2022.06.25-02.54.15:899][508]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display: StaticMesh                                      0.03                   0.03             0         12.25
+[2022.06.25-02.54.15:899][508]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader                                    0.01                   0.01             0          6.31
+[2022.06.25-02.54.15:899][508]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display: NavCollision                                    0.00                   0.00             0          0.05
+[2022.06.25-02.54.15:899][508]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Inline)                                0.00                   0.00             1         50.06
+[2022.06.25-02.54.15:899][508]UATHelper: Cooking (Windows (64-bit)):   LogCookCommandlet: Display: DistanceField                                   0.00                   0.00             0          0.00
+[2022.06.25-02.54.15:899][508]UATHelper: Cooking (Windows (64-bit)):   LogInit: Display:
+[2022.06.25-02.54.15:899][508]UATHelper: Cooking (Windows (64-bit)):   LogInit: Display: Warning/Error Summary (Unique only)
+[2022.06.25-02.54.15:899][508]UATHelper: Cooking (Windows (64-bit)):   LogInit: Display: -----------------------------------
+[2022.06.25-02.54.15:899][508]UATHelper: Cooking (Windows (64-bit)):   LogInit: Display: LogCook: Warning: Failed to move path 'C:/Users/quant/Documents/Unreal Projects/RoNCameraMod/Saved/Cooked/WindowsNoEditor' for async delete (LastError == 5); falling back to synchronous delete.
+[2022.06.25-02.54.15:899][508]UATHelper: Cooking (Windows (64-bit)):   LogInit: Display:
+[2022.06.25-02.54.15:899][508]UATHelper: Cooking (Windows (64-bit)):   LogInit: Display: Success - 0 error(s), 1 warning(s)
+[2022.06.25-02.54.15:899][508]UATHelper: Cooking (Windows (64-bit)):   LogInit: Display:
+[2022.06.25-02.54.15:899][508]UATHelper: Cooking (Windows (64-bit)):   
+[2022.06.25-02.54.15:899][508]UATHelper: Cooking (Windows (64-bit)):   Execution of commandlet took:  2.58 seconds
+[2022.06.25-02.54.15:998][520]UATHelper: Cooking (Windows (64-bit)):   LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.06.25-02.54.15:998][520]UATHelper: Cooking (Windows (64-bit)):   LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.06.25-02.54.15:998][520]UATHelper: Cooking (Windows (64-bit)):   LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.06.25-02.54.15:998][520]UATHelper: Cooking (Windows (64-bit)):   LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.06.25-02.54.15:998][520]UATHelper: Cooking (Windows (64-bit)):   LogShaderCompilers: Display: ================================================
+[2022.06.25-02.54.16:006][521]UATHelper: Cooking (Windows (64-bit)):   LogShaderCompilers: Display: Shaders left to compile 0
+[2022.06.25-02.54.16:223][547]UATHelper: Cooking (Windows (64-bit)):   LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2022.06.25-02.54.16:514][582]UATHelper: Cooking (Windows (64-bit)):   LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.06.25-02.54.17:441][692]UATHelper: Cooking (Windows (64-bit)): Took 18.7081273s to run UE4Editor-Cmd.exe, ExitCode=0
+[2022.06.25-02.54.17:441][692]UATHelper: Cooking (Windows (64-bit)): ********** COOK COMMAND COMPLETED **********
+[2022.06.25-02.54.17:441][692]UATHelper: Cooking (Windows (64-bit)): BUILD SUCCESSFUL
+[2022.06.25-02.54.17:451][693]UATHelper: Cooking (Windows (64-bit)): AutomationTool exiting with ExitCode=0 (Success)
+[2022.06.25-03.52.29:983][830]LogUObjectHash: Compacting FUObjectHashTables data took  10.09ms
+[2022.06.25-03.52.30:444][876]BlueprintLog: New page: Compile W_CameraSaveSlot
+[2022.06.25-03.52.30:573][876]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2022.06.25-03.52.30:902][898]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/W_CameraSaveSlot35B4B3E24150CEC74FF24DA54686D64D.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_CameraSaveSlot.uasset'
+[2022.06.25-03.52.30:916][898]AssetCheck: New page: Asset Save: W_CameraSaveSlot
+[2022.06.25-03.52.30:916][898]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_CameraSaveSlot.W_CameraSaveSlot
+[2022.06.25-03.52.31:041][903]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2022.06.25-03.52.43:877][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.06.25-03.52.43:918][413]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/W_CameraSaveSlot9813F4C24D24A4EE4B1D088B8115267A.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_CameraSaveSlot.uasset'
+[2022.06.25-03.52.43:930][413]AssetCheck: New page: Asset Save: W_CameraSaveSlot
+[2022.06.25-03.52.43:930][413]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_CameraSaveSlot.W_CameraSaveSlot
+[2022.06.25-03.54.28:082][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.06.25-03.57.33:361][911]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.06.25-03.57.33:469][911]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/CameraSaveGameAEC69DEB4585A03A8E9728AFD2D67D34.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/CameraSaveGame.uasset'
+[2022.06.25-03.57.33:486][911]AssetCheck: New page: Asset Save: CameraSaveGame
+[2022.06.25-03.57.33:486][911]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/CameraSaveGame.CameraSaveGame
+[2022.06.25-03.57.34:158][989]BlueprintLog: New page: Compile CameraSaveGame
+[2022.06.25-03.57.34:292][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.06.25-04.41.36:585][309]LogUObjectHash: Compacting FUObjectHashTables data took  10.59ms
+[2022.06.25-04.42.36:510][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.06.25-04.42.36:567][690]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/W_CameraSaveSlot42221AD54AE77441BE737792319A33E8.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_CameraSaveSlot.uasset'
+[2022.06.25-04.42.36:581][690]AssetCheck: New page: Asset Save: W_CameraSaveSlot
+[2022.06.25-04.42.36:581][690]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_CameraSaveSlot.W_CameraSaveSlot
+[2022.06.25-04.42.41:080][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.06.25-04.42.41:122][193]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/W_CameraSaveSlot405C35E5498AE53E615AF1AFDA4A82BF.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_CameraSaveSlot.uasset'
+[2022.06.25-04.42.41:137][193]AssetCheck: New page: Asset Save: W_CameraSaveSlot
+[2022.06.25-04.42.41:137][193]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_CameraSaveSlot.W_CameraSaveSlot
+[2022.06.25-04.42.46:280][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.06.25-04.42.46:334][783]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/W_CameraSaveSlot0DC9970A4FE6EB42E36046990BC37D03.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_CameraSaveSlot.uasset'
+[2022.06.25-04.42.46:348][783]AssetCheck: New page: Asset Save: W_CameraSaveSlot
+[2022.06.25-04.42.46:349][783]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_CameraSaveSlot.W_CameraSaveSlot
+[2022.06.25-04.42.49:760][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.06.25-04.42.49:804][185]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/W_CameraSaveSlot08C7342D48D308C3C9F43299BF990055.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_CameraSaveSlot.uasset'
+[2022.06.25-04.42.49:815][185]AssetCheck: New page: Asset Save: W_CameraSaveSlot
+[2022.06.25-04.42.49:815][185]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_CameraSaveSlot.W_CameraSaveSlot
+[2022.06.25-04.44.13:095][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.06.25-04.44.29:055][413]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.06.25-04.44.29:094][413]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/W_CameraSaveSlotBB81FEDE4AC050A35BC9C49EB9BC8D41.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_CameraSaveSlot.uasset'
+[2022.06.25-04.44.29:111][413]AssetCheck: New page: Asset Save: W_CameraSaveSlot
+[2022.06.25-04.44.29:111][413]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_CameraSaveSlot.W_CameraSaveSlot
+[2022.06.25-04.58.40:278][186]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.06.25-04.59.21:441][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.06.25-04.59.51:457][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.06.25-05.00.13:088][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.06.25-05.00.13:214][783]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/CameraSaveGame3966967043CC01A0307C13B4CC313A6D.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/CameraSaveGame.uasset'
+[2022.06.25-05.00.13:230][783]AssetCheck: New page: Asset Save: CameraSaveGame
+[2022.06.25-05.00.13:230][783]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/CameraSaveGame.CameraSaveGame
+[2022.06.25-05.00.13:324][791]BlueprintLog: New page: Compile CameraSaveGame
+[2022.06.25-05.00.13:412][791]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.06.25-05.00.14:108][806]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/CameraSaveGame9EFDBC884DFA4239B26D44AA8461CA7B.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/CameraSaveGame.uasset'
+[2022.06.25-05.00.14:123][806]AssetCheck: New page: Asset Save: CameraSaveGame
+[2022.06.25-05.00.14:123][806]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/CameraSaveGame.CameraSaveGame
+[2022.06.25-05.00.14:248][812]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2022.06.25-05.03.59:524][431]LogHttp: Warning: 00000151F234D600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE1B73242-446E-2CD5-D265-C2A29995DB05%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=6d06402449504bd1d24a7f8acf343570%7C4fcce09f56e44f2789879177862ee5b6%7C129b0cef-f345-4295-83d4-fdb94a9184b2&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.25-05.03.59:524][431]LogHttp: Warning: 00000151F234D600: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.06.25-05.03.59:524][431]LogHttp: Warning: 00000151F234D600: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x15091064b80 [can pipeline])
+[2022.06.25-05.03.59:524][431]LogHttp: Warning: 00000151F234D600: libcurl info message cache 1 (Re-using existing connection! (#5) with host datarouter.ol.epicgames.com)
+[2022.06.25-05.03.59:524][431]LogHttp: Warning: 00000151F234D600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.209.60.114) port 443 (#5))
+[2022.06.25-05.03.59:524][431]LogHttp: Warning: 00000151F234D600: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.06.25-05.03.59:524][431]LogHttp: Warning: 00000151F234D600: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.06.25-05.03.59:524][431]LogHttp: Warning: 00000151F234D600: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.06.25-05.03.59:524][431]LogHttp: Warning: 00000151F234D600: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.06.25-05.03.59:524][431]LogHttp: Warning: 00000151F234D600: libcurl info message cache 7 (Closing connection 5)
+[2022.06.25-05.03.59:857][432]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE1B73242-446E-2CD5-D265-C2A29995DB05%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=6d06402449504bd1d24a7f8acf343570%7C4fcce09f56e44f2789879177862ee5b6%7C129b0cef-f345-4295-83d4-fdb94a9184b2&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.25-05.11.59:711][868]LogHttp: Warning: 000001521CB32B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE1B73242-446E-2CD5-D265-C2A29995DB05%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=6d06402449504bd1d24a7f8acf343570%7C4fcce09f56e44f2789879177862ee5b6%7C129b0cef-f345-4295-83d4-fdb94a9184b2&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.25-05.11.59:711][868]LogHttp: Warning: 000001521CB32B00: request failed, libcurl error: 0 (No error)
+[2022.06.25-05.11.59:711][868]LogHttp: Warning: 000001521CB32B00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x15091064970 [can pipeline])
+[2022.06.25-05.11.59:711][868]LogHttp: Warning: 000001521CB32B00: libcurl info message cache 1 (Re-using existing connection! (#8) with host datarouter.ol.epicgames.com)
+[2022.06.25-05.11.59:711][868]LogHttp: Warning: 000001521CB32B00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (23.20.249.88) port 443 (#8))
+[2022.06.25-05.11.59:711][868]LogHttp: Warning: 000001521CB32B00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.06.25-05.11.59:711][868]LogHttp: Warning: 000001521CB32B00: libcurl info message cache 4 (Connection died, retrying a fresh connect)
+[2022.06.25-05.11.59:711][868]LogHttp: Warning: 000001521CB32B00: libcurl info message cache 5 (necessary data rewind wasn't possible)
+[2022.06.25-05.11.59:711][868]LogHttp: Warning: 000001521CB32B00: libcurl info message cache 6 (Closing connection 8)
+[2022.06.25-05.11.59:711][868]LogHttp: Warning: 000001521CB32B00: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.06.25-05.11.59:711][868]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE1B73242-446E-2CD5-D265-C2A29995DB05%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=6d06402449504bd1d24a7f8acf343570%7C4fcce09f56e44f2789879177862ee5b6%7C129b0cef-f345-4295-83d4-fdb94a9184b2&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.25-06.42.40:349][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.06.25-07.02.39:603][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.06.25-07.02.41:563][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.06.25-07.02.44:771][485]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.25-07.02.44:790][485]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.25-07.02.44:791][485]PIE: New page: PIE session: NewMap (Jun 24, 2022, 5:02:44 PM)
+[2022.06.25-07.02.44:828][485]LogPlayLevel: Creating play world package: /Game/DevelopmentTestMap/UEDPIE_0_NewMap
+[2022.06.25-07.02.44:854][485]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025218s)
+[2022.06.25-07.02.44:856][485]LogAIModule: Creating AISystem for world NewMap
+[2022.06.25-07.02.44:857][485]LogPlayLevel: PIE: World Init took: (0.002584s)
+[2022.06.25-07.02.44:857][485]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DevelopmentTestMap/NewMap.NewMap to /Game/DevelopmentTestMap/UEDPIE_0_NewMap.NewMap (0.028531s)
+[2022.06.25-07.02.44:892][485]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2022.06.25-07.02.44:893][485]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2022.06.25-07.02.44:894][485]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.25-07.02.44:894][485]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.25-07.02.44:894][485]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.25-07.02.44:894][485]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.25-07.02.44:894][485]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.25-07.02.44:894][485]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.25-07.02.44:894][485]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.25-07.02.44:894][485]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.25-07.02.44:895][485]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.25-07.02.44:895][485]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.25-07.02.44:895][485]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.25-07.02.44:895][485]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.25-07.02.44:942][485]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.25-07.02.44:942][485]LogAudioMixer: Display: 1: FrontRight
+[2022.06.25-07.02.44:942][485]LogAudioMixer: Display: 2: FrontCenter
+[2022.06.25-07.02.44:943][485]LogAudioMixer: Display: 3: LowFrequency
+[2022.06.25-07.02.44:943][485]LogAudioMixer: Display: 4: BackLeft
+[2022.06.25-07.02.44:943][485]LogAudioMixer: Display: 5: BackRight
+[2022.06.25-07.02.44:943][485]LogAudioMixer: Display: 6: SideLeft
+[2022.06.25-07.02.44:943][485]LogAudioMixer: Display: 7: SideRight
+[2022.06.25-07.02.44:952][485]LogAudioMixer: Display: Using Audio Device Speakers (3- Logitech G935/G933s Gaming Headset)
+[2022.06.25-07.02.44:956][485]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.25-07.02.44:956][485]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.25-07.02.44:956][485]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.25-07.02.44:959][485]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.25-07.02.44:959][485]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.25-07.02.44:959][485]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.06.25-07.02.44:960][485]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.25-07.02.44:960][485]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.25-07.02.44:960][485]LogInit: FAudioDevice initialized.
+[2022.06.25-07.02.44:960][485]LogAudio: Display: Audio Device (ID: 25) registered with world 'NewMap'.
+[2022.06.25-07.02.44:977][485]LogLoad: Game class is 'GM_COOP_BarricadedSuspects_C'
+[2022.06.25-07.02.44:980][485]LogWorld: Bringing World /Game/DevelopmentTestMap/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2022.06.25-00.02.44
+[2022.06.25-07.02.44:980][485]LogWorld: Bringing up level for play took: 0.001544
+[2022.06.25-07.02.44:981][485]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2022.06.25-07.02.44:997][485]PIE: Server logged in
+[2022.06.25-07.02.44:998][485]PIE: Play in editor total start time 0.209 seconds.
+[2022.06.25-07.02.45:801][577]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.06.25-07.02.45:801][577]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.06.25-07.02.45:803][577]Cmd: r.Motionblurquality 4
+[2022.06.25-07.02.45:804][577]r.MotionBlurQuality = "4"
+[2022.06.25-07.02.52:626][390]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.06.25-07.02.52:626][390]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.06.25-07.02.53:336][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-07.02.53:336][469]LogWorld: BeginTearingDown for /Game/DevelopmentTestMap/UEDPIE_0_NewMap
+[2022.06.25-07.02.53:337][469]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.25-07.02.53:337][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.25-07.02.53:346][469]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.25-07.02.53:351][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.25-07.02.53:385][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-07.02.53:385][469]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.25-07.02.53:386][469]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.25-07.02.53:398][469]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.06.25-07.02.53:429][470]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2022.06.25-07.03.21:842][758]BlueprintLog: New page: Compile W_Settings
+[2022.06.25-07.03.22:227][758]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2022.06.25-07.03.22:895][794]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/W_SettingsAB494CCA4DA676E30BC800BD59926BE9.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Settings.uasset'
+[2022.06.25-07.03.22:913][794]AssetCheck: New page: Asset Save: W_Settings
+[2022.06.25-07.03.22:913][794]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Settings.W_Settings
+[2022.06.25-07.03.23:557][865]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2022.06.25-07.03.23:609][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.06.25-07.03.23:619][865]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/NewMap6E6263C847DEA73DAD45FB9A6A76BC42.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap.umap'
+[2022.06.25-07.03.23:633][865]LogFileHelpers: Saving map 'NewMap' took 0.056
+[2022.06.25-07.03.23:645][865]AssetCheck: New page: Asset Save: NewMap
+[2022.06.25-07.03.23:645][865]LogContentValidation: Display: Validating World /Game/DevelopmentTestMap/NewMap.NewMap
+[2022.06.25-07.03.28:402][418]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.06.25-07.03.28:587][418]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/W_Settings4A23CFBA43FDF814732A66B74235F088.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Settings.uasset'
+[2022.06.25-07.03.28:601][418]AssetCheck: New page: Asset Save: W_Settings
+[2022.06.25-07.03.28:601][418]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Settings.W_Settings
+[2022.06.25-07.03.28:871][447]BlueprintLog: New page: Compile W_Settings
+[2022.06.25-07.03.28:998][447]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.06.25-07.03.29:403][464]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/W_Settings591614374B06CE85ABD51C8F2E4CF11E.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Settings.uasset'
+[2022.06.25-07.03.29:418][464]AssetCheck: New page: Asset Save: W_Settings
+[2022.06.25-07.03.29:418][464]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Settings.W_Settings
+[2022.06.25-07.03.30:575][586]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2022.06.25-07.03.30:622][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.06.25-07.03.30:630][586]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/NewMap899F5D954D0F7F91D9B4F9AB65C9B1BA.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap.umap'
+[2022.06.25-07.03.30:638][586]LogFileHelpers: Saving map 'NewMap' took 0.044
+[2022.06.25-07.03.30:652][586]AssetCheck: New page: Asset Save: NewMap
+[2022.06.25-07.03.30:652][586]LogContentValidation: Display: Validating World /Game/DevelopmentTestMap/NewMap.NewMap
+[2022.06.25-07.03.38:825][358]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.25-07.03.38:830][358]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.25-07.03.38:830][358]PIE: New page: PIE session: NewMap (Jun 24, 2022, 5:03:38 PM)
+[2022.06.25-07.03.38:831][358]LogPlayLevel: Creating play world package: /Game/DevelopmentTestMap/UEDPIE_0_NewMap
+[2022.06.25-07.03.38:833][358]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002692s)
+[2022.06.25-07.03.38:834][358]LogAIModule: Creating AISystem for world NewMap
+[2022.06.25-07.03.38:834][358]LogPlayLevel: PIE: World Init took: (0.000803s)
+[2022.06.25-07.03.38:834][358]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DevelopmentTestMap/NewMap.NewMap to /Game/DevelopmentTestMap/UEDPIE_0_NewMap.NewMap (0.003578s)
+[2022.06.25-07.03.38:867][358]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.06.25-07.03.38:867][358]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2022.06.25-07.03.38:868][358]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.25-07.03.38:868][358]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.25-07.03.38:868][358]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.25-07.03.38:868][358]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.25-07.03.38:868][358]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.25-07.03.38:868][358]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.25-07.03.38:868][358]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.25-07.03.38:868][358]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.25-07.03.38:868][358]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.25-07.03.38:868][358]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.25-07.03.38:868][358]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.25-07.03.38:868][358]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.25-07.03.38:872][358]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.25-07.03.38:872][358]LogAudioMixer: Display: 1: FrontRight
+[2022.06.25-07.03.38:872][358]LogAudioMixer: Display: 2: FrontCenter
+[2022.06.25-07.03.38:872][358]LogAudioMixer: Display: 3: LowFrequency
+[2022.06.25-07.03.38:872][358]LogAudioMixer: Display: 4: BackLeft
+[2022.06.25-07.03.38:872][358]LogAudioMixer: Display: 5: BackRight
+[2022.06.25-07.03.38:872][358]LogAudioMixer: Display: 6: SideLeft
+[2022.06.25-07.03.38:872][358]LogAudioMixer: Display: 7: SideRight
+[2022.06.25-07.03.38:881][358]LogAudioMixer: Display: Using Audio Device Speakers (3- Logitech G935/G933s Gaming Headset)
+[2022.06.25-07.03.38:881][358]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.25-07.03.38:881][358]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.25-07.03.38:881][358]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.25-07.03.38:882][358]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.25-07.03.38:882][358]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.25-07.03.38:882][358]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.06.25-07.03.38:883][358]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.25-07.03.38:883][358]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.25-07.03.38:883][358]LogInit: FAudioDevice initialized.
+[2022.06.25-07.03.38:883][358]LogAudio: Display: Audio Device (ID: 26) registered with world 'NewMap'.
+[2022.06.25-07.03.38:944][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-07.03.38:945][358]LogLoad: Game class is 'GM_COOP_BarricadedSuspects_C'
+[2022.06.25-07.03.38:946][358]LogWorld: Bringing World /Game/DevelopmentTestMap/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2022.06.25-00.03.38
+[2022.06.25-07.03.38:946][358]LogWorld: Bringing up level for play took: 0.000803
+[2022.06.25-07.03.38:946][358]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2022.06.25-07.03.38:955][358]PIE: Server logged in
+[2022.06.25-07.03.38:957][358]PIE: Play in editor total start time 0.126 seconds.
+[2022.06.25-07.03.38:979][359]LogRenderer: Reallocating scene render targets to support 2600x1372 Format 10 NumSamples 1 (Frame:1).
+[2022.06.25-07.03.39:281][381]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.06.25-07.03.39:281][381]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.06.25-07.03.39:284][381]Cmd: r.Motionblurquality 4
+[2022.06.25-07.03.39:284][381]r.MotionBlurQuality = "4"
+[2022.06.25-07.03.43:591][481]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.06.25-07.03.43:591][481]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.06.25-07.03.43:917][515]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.06.25-07.03.43:917][515]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.06.25-07.03.43:920][515]Cmd: r.Motionblurquality 4
+[2022.06.25-07.03.43:920][515]r.MotionBlurQuality = "4"
+[2022.06.25-07.03.59:729][146]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.06.25-07.03.59:729][146]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.06.25-07.04.00:266][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.25-07.04.00:266][200]LogWorld: BeginTearingDown for /Game/DevelopmentTestMap/UEDPIE_0_NewMap
+[2022.06.25-07.04.00:267][200]LogSlate: Window 'RoNCameraMod Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.25-07.04.00:276][200]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.25-07.04.00:276][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.25-07.04.00:289][200]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.25-07.04.00:295][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.25-07.04.00:327][200]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.25-07.04.00:328][200]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.25-07.04.00:329][200]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.25-07.04.00:335][200]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.06.25-07.04.00:567][201]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2022.06.25-07.04.09:502][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.06.25-07.04.10:391][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.06.25-07.04.12:298][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.06.25-07.04.24:855][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.06.25-07.04.24:907][767]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/QuantumActorBB66BA6945B6526F1AB592BB214CA520.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/QuantumActor.uasset'
+[2022.06.25-07.04.24:923][767]AssetCheck: New page: Asset Save: QuantumActor
+[2022.06.25-07.04.24:923][767]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/QuantumActor.QuantumActor
+[2022.06.25-07.04.40:783][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.06.25-07.04.40:812][652]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/QuantumActor9D5FC470439D359FF6ADA9A47BF375D4.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/QuantumActor.uasset'
+[2022.06.25-07.04.40:824][652]AssetCheck: New page: Asset Save: QuantumActor
+[2022.06.25-07.04.40:824][652]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/QuantumActor.QuantumActor
+[2022.06.25-07.04.43:216][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.06.25-07.04.43:245][933]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/QuantumActor964C1E684EBF5592E72FC68E397C1B5D.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/QuantumActor.uasset'
+[2022.06.25-07.04.43:257][933]AssetCheck: New page: Asset Save: QuantumActor
+[2022.06.25-07.04.43:257][933]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/QuantumActor.QuantumActor
+[2022.06.25-07.04.45:027][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.25-07.04.45:854][226]BlueprintLog: New page: Compile QuantumActor
+[2022.06.25-07.04.45:922][226]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2022.06.25-07.04.47:432][387]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.06.25-07.04.47:440][387]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/NewMap37830EF04DF1EEF4301074A78F02D8F5.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap.umap'
+[2022.06.25-07.04.47:449][387]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DevelopmentTestMap/NewMap_BuiltData" FILE="../../../../../Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap_BuiltData.uasset" SILENT=true
+[2022.06.25-07.04.47:471][387]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/NewMap_BuiltData6B7E47F247A410BAF3B0B69C90399A6C.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap_BuiltData.uasset'
+[2022.06.25-07.04.47:484][387]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.25-07.04.47:484][387]LogContentValidation: Display: Validating World /Game/DevelopmentTestMap/NewMap.NewMap
+[2022.06.25-07.04.47:484][387]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/DevelopmentTestMap/NewMap_BuiltData.NewMap_BuiltData
+[2022.06.25-07.04.47:738][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.06.25-07.05.05:618][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.25-07.05.05:783][383]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawn310A67F849B9F81D644232A777DB201A.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.05.05:797][383]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.05.05:797][383]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.05.09:248][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.06.25-07.05.12:774][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.06.25-07.05.12:947][163]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawnA08C86F74D9B83DDC5C1879701B5722E.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.05.12:961][163]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.05.12:961][163]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.05.25:593][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.25-07.05.25:769][573]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawnBAE7FEAF499B678EAF59B2995F199DDD.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.05.25:783][573]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.05.25:783][573]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.05.29:779][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.06.25-07.05.29:950][974]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawn4D1112C6466A259B14B0E4B277561A56.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.05.29:964][974]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.05.29:964][974]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.05.39:682][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.06.25-07.05.39:850][992]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawnA5D0DEC94ACFB30310B81B9E85F9AB24.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.05.39:864][992]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.05.39:864][992]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.05.40:016][ 10]BlueprintLog: New page: Compile P_DebugPawn
+[2022.06.25-07.05.40:115][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.06.25-07.05.40:782][ 19]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawn841E82E24748B2A65C80CBB801BD4342.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.05.40:797][ 19]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.05.40:797][ 19]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.05.41:057][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2022.06.25-07.05.46:456][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.25-07.05.46:619][608]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawn1337429C4C3F2AA9EDEC25A3E1BE7386.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.05.46:632][608]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.05.46:633][608]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.05.51:326][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.06.25-07.05.51:502][ 75]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawn1E068D504C67AA1E77D945BF32F20CB5.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.05.51:515][ 75]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.05.51:515][ 75]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.05.55:608][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.25-07.05.55:769][480]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawn517013AC43B66F2B4632F1B0E2F6E696.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.05.55:786][480]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.05.55:786][480]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.06.06:114][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.06.25-07.06.07:500][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.06.25-07.06.17:832][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.06.25-07.06.18:006][318]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawn3A75681E40AC39A681A1A08A66D24555.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.06.18:018][318]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.06.18:018][318]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.06.23:356][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.06.25-07.06.23:518][917]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawnA57550024D00E6E1686FC29BBB990987.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.06.23:532][917]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.06.23:532][917]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.06.29:929][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.06.25-07.06.30:105][560]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawn0BBFC0354792CD763DF995835E261D41.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.06.30:122][560]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.06.30:122][560]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.06.31:997][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.06.25-07.06.42:121][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.06.25-07.06.42:290][777]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawn1AE4E99F47D172DE9ED32C87F9501480.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.06.42:305][777]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.06.42:305][777]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.06.43:405][881]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawnEC9AC2764D636775B291759E59ECCB7A.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.06.43:419][881]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.06.43:419][881]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.06.48:463][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.06.25-07.07.44:363][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.06.25-07.07.45:161][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.06.25-07.07.48:658][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.25-07.07.48:827][776]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawn905D40C34B645CA1C322AA90D66548D7.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.07.48:842][776]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.07.48:842][776]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.07.50:227][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.25-07.08.11:110][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.06.25-07.08.11:235][332]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/W_Main42F6E5484ABFCB759A5DA3B0E1706063.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Main.uasset'
+[2022.06.25-07.08.11:249][332]AssetCheck: New page: Asset Save: W_Main
+[2022.06.25-07.08.11:249][332]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Main.W_Main
+[2022.06.25-07.08.11:566][361]BlueprintLog: New page: Compile W_Main
+[2022.06.25-07.08.11:776][361]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.06.25-07.08.12:148][362]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/W_Main9F58054B444CF282530951882B833805.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Main.uasset'
+[2022.06.25-07.08.12:160][362]AssetCheck: New page: Asset Save: W_Main
+[2022.06.25-07.08.12:160][362]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Main.W_Main
+[2022.06.25-07.08.12:352][379]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2022.06.25-07.08.12:411][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.06.25-07.08.12:419][379]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/NewMapB2313F7C455B49B1ADD29D8B2553EB46.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap.umap'
+[2022.06.25-07.08.12:427][379]LogFileHelpers: Saving map 'NewMap' took 0.044
+[2022.06.25-07.08.12:440][379]AssetCheck: New page: Asset Save: NewMap
+[2022.06.25-07.08.12:440][379]LogContentValidation: Display: Validating World /Game/DevelopmentTestMap/NewMap.NewMap
+[2022.06.25-07.08.15:724][768]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.06.25-07.08.51:657][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.06.25-07.08.51:829][310]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawnFD659ADE477F06C3C64DA1A2610044E7.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.08.51:842][310]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.08.51:842][310]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.08.59:499][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.25-07.08.59:662][147]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawn311A1A9D4FA57A36AB92ECB30045355A.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.08.59:675][147]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.08.59:675][147]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.08.59:923][175]BlueprintLog: New page: Compile P_DebugPawn
+[2022.06.25-07.09.00:023][175]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2022.06.25-07.09.00:318][175]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.06.25-07.09.02:778][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.06.25-07.09.10:134][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.25-07.09.10:298][130]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawnAE6B12BF42332E1406E17FBB3A44C15F.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.09.10:313][130]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.09.10:313][130]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.09.12:765][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.25-07.09.12:931][402]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawn95D0443A4142E6161C4BC6985A468DE2.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.09.12:944][402]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.09.12:944][402]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.09.13:697][469]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawnA08CE0C345A36B539CFF19AD668DA6A2.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.09.13:710][469]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.09.13:710][469]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.09.20:435][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.25-07.09.20:598][222]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawn7D4DB3DA435277CB6753F88D3A9F1688.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.09.20:612][222]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.09.20:612][222]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.09.21:166][268]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawnE4C17948415E896409D3E0BA788FC60E.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.09.21:179][268]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.09.21:179][268]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.09.24:659][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.25-07.09.24:834][657]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawnFEAB43E54F30B805B09A109E8768E160.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.09.24:848][657]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.09.24:848][657]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.09.26:169][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.25-07.09.26:334][805]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawn5DAD89E74102E050327DA4801D2EA26A.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.09.26:348][805]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.09.26:348][805]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.09.31:755][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.06.25-07.09.31:918][386]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawn102AB8D340A2D337DE9005B0D16CAB57.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.09.31:930][386]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.09.31:930][386]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.10.08:132][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.06.25-07.10.08:301][772]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawnE2F85B334CDA0ADA148B84B01E6E1B0E.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.10.08:313][772]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.10.08:313][772]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.10.19:995][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.06.25-07.10.20:170][968]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawn3AA59A8D48C28B7F9CCAB5BCA67CA3F2.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.10.20:183][968]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.10.20:183][968]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.10.23:634][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.25-07.10.25:442][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.06.25-07.10.25:606][559]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawnFAF34BC147329F95B0F8588BAFF9E69B.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.10.25:621][559]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.10.25:621][559]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.10.37:398][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.25-07.10.37:573][633]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawn09DCB2FB4E338B76A0F7B0808657ED37.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.10.37:587][633]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.10.37:587][633]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.10.40:661][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.06.25-07.10.40:820][991]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawn8AC6D7CE4F6425B2A5C642A013D2BA7F.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.10.40:834][991]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.10.40:834][991]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.10.44:386][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.25-07.10.44:554][410]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawnAD840FE449438A9053E23199AB2A5606.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.10.44:566][410]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.10.44:566][410]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.10.49:869][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.06.25-07.10.59:332][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.25-07.11.00:939][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.25-07.11.01:335][285]BlueprintLog: New page: Compile P_DebugPawn
+[2022.06.25-07.11.01:425][285]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.06.25-07.11.02:072][286]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawnD89DC6F24AD38171847464BB523A9A3E.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.11.02:084][286]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.11.02:084][286]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.11.07:286][808]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2022.06.25-07.11.07:457][808]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawn15E8FB9540A6D67C1482338303612588.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.11.07:469][808]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.11.07:470][808]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.11.17:917][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.06.25-07.11.18:091][980]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawnA7DF618F4D76F20177C1E8925CB89DAF.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.11.18:104][980]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.11.18:104][980]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.11.20:238][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.06.25-07.11.29:410][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.06.25-07.11.29:577][286]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawn6FB04780490792C1DEA15C9E643B5EC9.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.11.29:589][286]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.11.29:589][286]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.11.58:336][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.25-07.11.58:509][414]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawnC81E20894E534198CB98B2809A22A350.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.11.58:522][414]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.11.58:522][414]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.12.09:407][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.06.25-07.12.09:579][622]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawn784E755348E5EACE20554A9A8D420CDB.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.12.09:592][622]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.12.09:592][622]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.12.20:803][848]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.06.25-07.12.20:979][848]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawn14DE6102410D4E515F2728AEEBA3E19E.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.12.20:991][848]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.12.20:991][848]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.12.29:800][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.06.25-07.12.29:964][823]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawn16F17D7C4E964A90D1DCF4AD7C041A15.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.12.29:976][823]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.12.29:976][823]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.12.30:810][895]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawnECF0A7984EBC12790124CA80EB4DD118.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.12.30:828][895]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.12.30:829][895]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.12.40:860][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.25-07.12.41:031][  1]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawnF66CAA2D4DC42CD99569CC9B584DD259.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.12.41:044][  1]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.12.41:044][  1]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.12.45:289][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.06.25-07.12.45:462][472]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawn2CD846BF407C9DDFDAFFC688B5BD776C.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.12.45:475][472]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.12.45:475][472]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.12.55:706][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.06.25-07.12.55:881][541]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawn37DB329F4D824B1AE583DBB8797BBD7C.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.12.55:894][541]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.12.55:894][541]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.12.57:529][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.06.25-07.12.57:698][729]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawn6451DE3E42FE525418257085F977ADEA.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.12.57:710][729]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.12.57:710][729]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.13.01:907][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.06.25-07.13.02:080][170]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawn16B988294662335491ECB7B16D9D33F6.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.13.02:093][170]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.13.02:093][170]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.13.06:366][590]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.06.25-07.13.06:532][590]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawn9437E8BF48D7EA94C362FEA979718D95.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.13.06:545][590]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.13.06:545][590]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.13.07:630][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.25-07.13.07:799][716]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawn85915D4B40E0FCB1201B9D8DC0C6D570.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.25-07.13.07:811][716]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.25-07.13.07:811][716]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.25-07.13.10:708][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.25-07.13.16:426][486]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.06.25-07.13.18:055][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.06.25-07.13.23:777][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.25-07.13.26:915][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.06.25-07.14.32:559][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.06.25-07.14.50:345][497]LogEditorTransaction: Undo Move Node
+[2022.06.25-07.14.55:523][985]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.06.25-07.14.55:535][985]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(668)].
+[2022.06.25-07.14.55:642][985]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/W_Main4A3E826047C12835F149A6BEEF5F6C8F.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Main.uasset'
+[2022.06.25-07.14.55:657][985]AssetCheck: New page: Asset Save: W_Main
+[2022.06.25-07.14.55:657][985]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Main.W_Main
+[2022.06.25-07.14.56:382][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.06.25-07.14.57:144][142]BlueprintLog: New page: Compile W_Main
+[2022.06.25-07.14.57:340][142]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.06.25-07.14.57:947][160]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/W_Main5022C4674155952CFD0B69AA205DC452.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Main.uasset'
+[2022.06.25-07.14.57:965][160]AssetCheck: New page: Asset Save: W_Main
+[2022.06.25-07.14.57:965][160]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Main.W_Main
+[2022.06.25-07.14.58:055][164]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2022.06.25-07.14.58:107][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.25-07.14.58:115][164]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/NewMapB99795AA46C3BA51108AA9B84A25701B.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap.umap'
+[2022.06.25-07.14.58:123][164]LogFileHelpers: Saving map 'NewMap' took 0.045
+[2022.06.25-07.14.58:137][164]AssetCheck: New page: Asset Save: NewMap
+[2022.06.25-07.14.58:137][164]LogContentValidation: Display: Validating World /Game/DevelopmentTestMap/NewMap.NewMap
+[2022.06.25-07.15.31:763][306]LogEditorTransaction: Undo Resize Node
+[2022.06.25-07.15.57:395][915]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2022.06.25-07.15.57:516][915]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/W_Main927B177C40574DC193C81AA8C5020BC4.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Main.uasset'
+[2022.06.25-07.15.57:531][915]AssetCheck: New page: Asset Save: W_Main
+[2022.06.25-07.15.57:531][915]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Main.W_Main
+[2022.06.25-07.15.58:422][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.06.25-07.15.59:680][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.25-07.16.01:589][279]BlueprintLog: New page: Compile W_Main
+[2022.06.25-07.16.01:669][279]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.06.25-07.16.02:332][297]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/W_MainC7C8ECC64261B69AB1CA01BEE7B6517C.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Main.uasset'
+[2022.06.25-07.16.02:344][297]AssetCheck: New page: Asset Save: W_Main
+[2022.06.25-07.16.02:345][297]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Main.W_Main
+[2022.06.25-07.16.02:465][303]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2022.06.25-07.16.02:519][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.25-07.16.02:529][303]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/NewMapA3EB49EE472864CF2852D1B329042D6C.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap.umap'
+[2022.06.25-07.16.02:538][303]LogFileHelpers: Saving map 'NewMap' took 0.048
+[2022.06.25-07.16.02:550][303]AssetCheck: New page: Asset Save: NewMap
+[2022.06.25-07.16.02:550][303]LogContentValidation: Display: Validating World /Game/DevelopmentTestMap/NewMap.NewMap
+[2022.06.25-07.16.03:755][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.25-07.16.05:267][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.25-07.16.05:950][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.06.25-07.16.20:218][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.25-07.16.20:270][178]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/W_CameraSaveSlot96F261EC4FC57AD61DD07BB447B34DDF.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_CameraSaveSlot.uasset'
+[2022.06.25-07.16.20:282][178]AssetCheck: New page: Asset Save: W_CameraSaveSlot
+[2022.06.25-07.16.20:283][178]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_CameraSaveSlot.W_CameraSaveSlot
+[2022.06.25-07.16.26:424][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.25-07.16.26:472][768]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/W_CameraSaveSlot50023CB6401ECC90FC4FD5A16CD5E987.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_CameraSaveSlot.uasset'
+[2022.06.25-07.16.26:484][768]AssetCheck: New page: Asset Save: W_CameraSaveSlot
+[2022.06.25-07.16.26:484][768]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_CameraSaveSlot.W_CameraSaveSlot
+[2022.06.25-07.16.36:151][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.06.25-07.16.36:557][935]BlueprintLog: New page: Compile W_CameraSaveSlot
+[2022.06.25-07.16.36:612][935]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.06.25-07.16.37:039][971]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/W_CameraSaveSlot47F85C6F44B8AA9F71EE92BC0699CD7A.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_CameraSaveSlot.uasset'
+[2022.06.25-07.16.37:054][971]AssetCheck: New page: Asset Save: W_CameraSaveSlot
+[2022.06.25-07.16.37:054][971]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_CameraSaveSlot.W_CameraSaveSlot
+[2022.06.25-07.16.37:143][977]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2022.06.25-07.16.41:412][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.25-07.16.41:455][460]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/W_CameraSaveSlot402CC160496019D36D8CAB82FA448E3E.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_CameraSaveSlot.uasset'
+[2022.06.25-07.16.41:467][460]AssetCheck: New page: Asset Save: W_CameraSaveSlot
+[2022.06.25-07.16.41:467][460]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_CameraSaveSlot.W_CameraSaveSlot
+[2022.06.25-07.16.44:181][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.06.25-07.16.51:067][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.06.25-07.17.01:675][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.25-07.17.01:803][624]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/W_Main568D51B644DE010556062D8CEEE2C702.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Main.uasset'
+[2022.06.25-07.17.01:817][624]AssetCheck: New page: Asset Save: W_Main
+[2022.06.25-07.17.01:817][624]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Main.W_Main
+[2022.06.25-07.18.03:342][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.06.25-07.18.05:292][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.06.25-07.18.08:580][225]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/W_Settings957D44954502D50B3152C0A70EB8E8E4.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Settings.uasset'
+[2022.06.25-07.18.08:594][225]AssetCheck: New page: Asset Save: W_Settings
+[2022.06.25-07.18.08:594][225]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Settings.W_Settings
+[2022.06.25-07.18.26:300][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.06.25-07.18.31:960][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.06.25-07.18.59:213][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
