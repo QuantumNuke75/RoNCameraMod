@@ -30300,3 +30300,800 @@ Make sure 'W_KeybindActionMap_C' has been compiled for  Set Binds
 [2022.06.27-01.46.43:160][613]LogFileHelpers: Saving map 'NewMap' took 0.057
 [2022.06.27-01.46.43:172][613]AssetCheck: New page: Asset Save: NewMap
 [2022.06.27-01.46.43:172][613]LogContentValidation: Display: Validating World /Game/DevelopmentTestMap/NewMap.NewMap
+[2022.06.27-01.47.40:120][579]Cmd: SELECT NONE
+[2022.06.27-01.47.40:445][618]Cmd: SELECT NONE
+[2022.06.27-01.47.40:798][659]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.06.27-01.47.40:876][664]Cmd: SELECT NONE
+[2022.06.27-02.11.08:113][992]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.27-02.11.08:120][992]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.27-02.11.08:120][992]PIE: New page: PIE session: NewMap (Jun 26, 2022, 12:11:08 PM)
+[2022.06.27-02.11.08:144][992]LogPlayLevel: Creating play world package: /Game/DevelopmentTestMap/UEDPIE_0_NewMap
+[2022.06.27-02.11.08:147][992]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003148s)
+[2022.06.27-02.11.08:148][992]LogAIModule: Creating AISystem for world NewMap
+[2022.06.27-02.11.08:148][992]LogPlayLevel: PIE: World Init took: (0.001055s)
+[2022.06.27-02.11.08:148][992]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DevelopmentTestMap/NewMap.NewMap to /Game/DevelopmentTestMap/UEDPIE_0_NewMap.NewMap (0.004349s)
+[2022.06.27-02.11.08:199][992]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2022.06.27-02.11.08:203][992]LogAudio: Display: Creating Audio Device:                 Id: 113, Scope: Unique, Realtime: True
+[2022.06.27-02.11.08:203][992]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.27-02.11.08:203][992]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.27-02.11.08:203][992]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.27-02.11.08:203][992]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.27-02.11.08:203][992]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.27-02.11.08:203][992]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.27-02.11.08:203][992]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.27-02.11.08:203][992]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.27-02.11.08:203][992]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.27-02.11.08:203][992]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.27-02.11.08:203][992]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.27-02.11.08:203][992]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.27-02.11.08:207][992]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.27-02.11.08:207][992]LogAudioMixer: Display: 1: FrontRight
+[2022.06.27-02.11.08:207][992]LogAudioMixer: Display: 2: FrontCenter
+[2022.06.27-02.11.08:207][992]LogAudioMixer: Display: 3: LowFrequency
+[2022.06.27-02.11.08:207][992]LogAudioMixer: Display: 4: BackLeft
+[2022.06.27-02.11.08:207][992]LogAudioMixer: Display: 5: BackRight
+[2022.06.27-02.11.08:207][992]LogAudioMixer: Display: 6: SideLeft
+[2022.06.27-02.11.08:207][992]LogAudioMixer: Display: 7: SideRight
+[2022.06.27-02.11.08:215][992]LogAudioMixer: Display: Using Audio Device Speakers (3- Logitech G935/G933s Gaming Headset)
+[2022.06.27-02.11.08:215][992]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.27-02.11.08:215][992]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.27-02.11.08:215][992]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.27-02.11.08:216][992]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.27-02.11.08:216][992]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.27-02.11.08:216][992]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.06.27-02.11.08:217][992]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.27-02.11.08:217][992]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.27-02.11.08:217][992]LogInit: FAudioDevice initialized.
+[2022.06.27-02.11.08:217][992]LogAudio: Display: Audio Device (ID: 113) registered with world 'NewMap'.
+[2022.06.27-02.11.08:223][992]LogLoad: Game class is 'GM_COOP_BarricadedSuspects_C'
+[2022.06.27-02.11.08:224][992]LogWorld: Bringing World /Game/DevelopmentTestMap/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2022.06.26-19.11.08
+[2022.06.27-02.11.08:224][992]LogWorld: Bringing up level for play took: 0.000609
+[2022.06.27-02.11.08:224][992]LogOnline: OSS: Creating online subsystem instance for: :Context_131
+[2022.06.27-02.11.08:246][992]PIE: Server logged in
+[2022.06.27-02.11.08:247][992]PIE: Play in editor total start time 0.127 seconds.
+[2022.06.27-02.11.08:247][992]LogInput: Error: Duplicate mapping of key Gamepad_RightX for axis CameraMod_LookRight
+[2022.06.27-02.11.08:247][992]LogInput: Error: Duplicate mapping of key None for axis CameraMod_CameraSpeed
+[2022.06.27-02.11.09:394][121]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.06.27-02.11.09:395][121]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.06.27-02.11.09:396][121]Cmd: r.Motionblurquality 4
+[2022.06.27-02.11.09:396][121]r.MotionBlurQuality = "4"
+[2022.06.27-02.11.32:727][911]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.06.27-02.11.32:727][911]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.06.27-02.11.33:253][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.27-02.11.33:253][970]LogWorld: BeginTearingDown for /Game/DevelopmentTestMap/UEDPIE_0_NewMap
+[2022.06.27-02.11.33:253][970]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-02.11.33:253][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.27-02.11.33:260][970]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.27-02.11.33:266][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.27-02.11.33:308][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.27-02.11.33:308][970]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.27-02.11.33:309][970]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.27-02.11.33:319][970]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2022.06.27-02.11.33:350][971]LogPlayLevel: Display: Destroying online subsystem :Context_131
+[2022.06.27-02.11.46:541][478]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.06.27-02.11.46:747][478]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/W_Settings027027CC457BABF26418509AFCB56D20.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Settings.uasset'
+[2022.06.27-02.11.46:762][478]AssetCheck: New page: Asset Save: W_Settings
+[2022.06.27-02.11.46:762][478]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Settings.W_Settings
+[2022.06.27-02.11.47:766][584]BlueprintLog: New page: Compile W_Settings
+[2022.06.27-02.11.47:940][584]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.06.27-02.11.49:563][757]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.27-02.11.49:569][757]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.27-02.11.49:569][757]PIE: New page: PIE session: NewMap (Jun 26, 2022, 12:11:49 PM)
+[2022.06.27-02.11.49:569][757]LogPlayLevel: Creating play world package: /Game/DevelopmentTestMap/UEDPIE_0_NewMap
+[2022.06.27-02.11.49:572][757]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002725s)
+[2022.06.27-02.11.49:573][757]LogAIModule: Creating AISystem for world NewMap
+[2022.06.27-02.11.49:573][757]LogPlayLevel: PIE: World Init took: (0.000835s)
+[2022.06.27-02.11.49:573][757]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DevelopmentTestMap/NewMap.NewMap to /Game/DevelopmentTestMap/UEDPIE_0_NewMap.NewMap (0.003656s)
+[2022.06.27-02.11.49:623][757]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2022.06.27-02.11.49:624][757]LogAudio: Display: Creating Audio Device:                 Id: 114, Scope: Unique, Realtime: True
+[2022.06.27-02.11.49:624][757]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.27-02.11.49:624][757]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.27-02.11.49:624][757]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.27-02.11.49:624][757]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.27-02.11.49:624][757]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.27-02.11.49:624][757]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.27-02.11.49:624][757]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.27-02.11.49:624][757]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.27-02.11.49:624][757]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.27-02.11.49:624][757]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.27-02.11.49:624][757]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.27-02.11.49:624][757]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.27-02.11.49:627][757]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.27-02.11.49:627][757]LogAudioMixer: Display: 1: FrontRight
+[2022.06.27-02.11.49:627][757]LogAudioMixer: Display: 2: FrontCenter
+[2022.06.27-02.11.49:627][757]LogAudioMixer: Display: 3: LowFrequency
+[2022.06.27-02.11.49:628][757]LogAudioMixer: Display: 4: BackLeft
+[2022.06.27-02.11.49:628][757]LogAudioMixer: Display: 5: BackRight
+[2022.06.27-02.11.49:628][757]LogAudioMixer: Display: 6: SideLeft
+[2022.06.27-02.11.49:628][757]LogAudioMixer: Display: 7: SideRight
+[2022.06.27-02.11.49:636][757]LogAudioMixer: Display: Using Audio Device Speakers (3- Logitech G935/G933s Gaming Headset)
+[2022.06.27-02.11.49:636][757]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.27-02.11.49:636][757]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.27-02.11.49:636][757]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.27-02.11.49:636][757]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.27-02.11.49:636][757]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.27-02.11.49:636][757]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.06.27-02.11.49:637][757]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.27-02.11.49:637][757]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.27-02.11.49:637][757]LogInit: FAudioDevice initialized.
+[2022.06.27-02.11.49:637][757]LogAudio: Display: Audio Device (ID: 114) registered with world 'NewMap'.
+[2022.06.27-02.11.49:694][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.27-02.11.49:694][757]LogLoad: Game class is 'GM_COOP_BarricadedSuspects_C'
+[2022.06.27-02.11.49:695][757]LogWorld: Bringing World /Game/DevelopmentTestMap/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2022.06.26-19.11.49
+[2022.06.27-02.11.49:695][757]LogWorld: Bringing up level for play took: 0.000698
+[2022.06.27-02.11.49:695][757]LogOnline: OSS: Creating online subsystem instance for: :Context_132
+[2022.06.27-02.11.49:718][757]PIE: Server logged in
+[2022.06.27-02.11.49:720][757]PIE: Play in editor total start time 0.151 seconds.
+[2022.06.27-02.11.49:720][757]LogInput: Error: Duplicate mapping of key Gamepad_RightX for axis CameraMod_LookRight
+[2022.06.27-02.11.49:720][757]LogInput: Error: Duplicate mapping of key None for axis CameraMod_CameraSpeed
+[2022.06.27-02.11.51:612][949]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.06.27-02.11.51:612][949]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.06.27-02.11.51:615][949]Cmd: r.Motionblurquality 4
+[2022.06.27-02.11.51:615][949]r.MotionBlurQuality = "4"
+[2022.06.27-02.11.56:105][389]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.06.27-02.11.56:105][389]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.06.27-02.12.01:343][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.27-02.12.01:343][922]LogWorld: BeginTearingDown for /Game/DevelopmentTestMap/UEDPIE_0_NewMap
+[2022.06.27-02.12.01:344][922]LogSlate: Window 'RoNCameraMod Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.27-02.12.01:348][922]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-02.12.01:349][922]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.27-02.12.01:359][922]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.27-02.12.01:365][922]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.27-02.12.01:406][922]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.27-02.12.01:407][922]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.27-02.12.01:408][922]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.27-02.12.01:414][922]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2022.06.27-02.12.01:432][923]LogPlayLevel: Display: Destroying online subsystem :Context_132
+[2022.06.27-02.12.03:255][135]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2022.06.27-02.12.03:321][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.06.27-02.12.03:330][135]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/NewMapE67AD51046FC0050BFD4319113091DA9.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap.umap'
+[2022.06.27-02.12.03:339][135]LogFileHelpers: Saving map 'NewMap' took 0.058
+[2022.06.27-02.12.03:351][135]AssetCheck: New page: Asset Save: NewMap
+[2022.06.27-02.12.03:351][135]LogContentValidation: Display: Validating World /Game/DevelopmentTestMap/NewMap.NewMap
+[2022.06.27-03.39.42:191][760]LogUObjectHash: Compacting FUObjectHashTables data took  11.56ms
+[2022.06.27-03.39.43:466][893]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.27-03.39.43:478][893]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.27-03.39.43:478][893]PIE: New page: PIE session: NewMap (Jun 26, 2022, 1:39:43 PM)
+[2022.06.27-03.39.43:479][893]LogPlayLevel: Creating play world package: /Game/DevelopmentTestMap/UEDPIE_0_NewMap
+[2022.06.27-03.39.43:488][893]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008685s)
+[2022.06.27-03.39.43:490][893]LogAIModule: Creating AISystem for world NewMap
+[2022.06.27-03.39.43:491][893]LogPlayLevel: PIE: World Init took: (0.002850s)
+[2022.06.27-03.39.43:491][893]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DevelopmentTestMap/NewMap.NewMap to /Game/DevelopmentTestMap/UEDPIE_0_NewMap.NewMap (0.011942s)
+[2022.06.27-03.39.43:549][893]LogUObjectHash: Compacting FUObjectHashTables data took   6.37ms
+[2022.06.27-03.39.43:550][893]LogAudio: Display: Creating Audio Device:                 Id: 115, Scope: Unique, Realtime: True
+[2022.06.27-03.39.43:550][893]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.27-03.39.43:550][893]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.27-03.39.43:550][893]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.27-03.39.43:550][893]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.27-03.39.43:550][893]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.27-03.39.43:550][893]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.27-03.39.43:550][893]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.27-03.39.43:550][893]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.27-03.39.43:551][893]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.27-03.39.43:551][893]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.27-03.39.43:551][893]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.27-03.39.43:551][893]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.27-03.39.43:556][893]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.27-03.39.43:556][893]LogAudioMixer: Display: 1: FrontRight
+[2022.06.27-03.39.43:556][893]LogAudioMixer: Display: 2: FrontCenter
+[2022.06.27-03.39.43:557][893]LogAudioMixer: Display: 3: LowFrequency
+[2022.06.27-03.39.43:557][893]LogAudioMixer: Display: 4: BackLeft
+[2022.06.27-03.39.43:557][893]LogAudioMixer: Display: 5: BackRight
+[2022.06.27-03.39.43:557][893]LogAudioMixer: Display: 6: SideLeft
+[2022.06.27-03.39.43:557][893]LogAudioMixer: Display: 7: SideRight
+[2022.06.27-03.39.43:569][893]LogAudioMixer: Display: Using Audio Device Speakers (3- Logitech G935/G933s Gaming Headset)
+[2022.06.27-03.39.43:575][893]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.27-03.39.43:575][893]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.27-03.39.43:575][893]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.27-03.39.43:578][893]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.27-03.39.43:578][893]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.27-03.39.43:578][893]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.06.27-03.39.43:579][893]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.27-03.39.43:580][893]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.27-03.39.43:580][893]LogInit: FAudioDevice initialized.
+[2022.06.27-03.39.43:580][893]LogAudio: Display: Audio Device (ID: 115) registered with world 'NewMap'.
+[2022.06.27-03.39.43:627][893]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.27-03.39.43:628][893]LogLoad: Game class is 'GM_COOP_BarricadedSuspects_C'
+[2022.06.27-03.39.43:630][893]LogWorld: Bringing World /Game/DevelopmentTestMap/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2022.06.26-20.39.43
+[2022.06.27-03.39.43:630][893]LogWorld: Bringing up level for play took: 0.001199
+[2022.06.27-03.39.43:630][893]LogOnline: OSS: Creating online subsystem instance for: :Context_133
+[2022.06.27-03.39.43:706][893]PIE: Server logged in
+[2022.06.27-03.39.43:707][893]PIE: Play in editor total start time 0.23 seconds.
+[2022.06.27-03.39.43:708][893]LogInput: Error: Duplicate mapping of key Gamepad_RightX for axis CameraMod_LookRight
+[2022.06.27-03.39.43:708][893]LogInput: Error: Duplicate mapping of key None for axis CameraMod_CameraSpeed
+[2022.06.27-03.39.44:194][925]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.06.27-03.39.44:194][925]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.06.27-03.39.44:196][925]Cmd: r.Motionblurquality 4
+[2022.06.27-03.39.44:197][925]r.MotionBlurQuality = "4"
+[2022.06.27-03.40.10:600][805]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.06.27-03.40.10:600][805]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.06.27-03.40.11:104][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.27-03.40.11:104][859]LogWorld: BeginTearingDown for /Game/DevelopmentTestMap/UEDPIE_0_NewMap
+[2022.06.27-03.40.11:105][859]LogSlate: Window 'RoNCameraMod Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.27-03.40.11:110][859]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.27-03.40.11:110][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.27-03.40.11:119][859]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.27-03.40.11:124][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.27-03.40.11:171][859]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.27-03.40.11:172][859]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.27-03.40.11:179][859]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2022.06.27-03.40.11:196][860]LogPlayLevel: Display: Destroying online subsystem :Context_133
+[2022.06.27-07.25.23:794][468]LogAudioMixer: Resetting audio stream to device id 
+[2022.06.27-07.25.23:829][468]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.27-07.25.23:829][468]LogAudioMixer: Display: 1: FrontRight
+[2022.06.27-07.25.23:829][468]LogAudioMixer: Display: 2: FrontCenter
+[2022.06.27-07.25.23:829][468]LogAudioMixer: Display: 3: LowFrequency
+[2022.06.27-07.25.23:829][468]LogAudioMixer: Display: 4: BackLeft
+[2022.06.27-07.25.23:829][468]LogAudioMixer: Display: 5: BackRight
+[2022.06.27-07.25.23:829][468]LogAudioMixer: Display: 6: SideLeft
+[2022.06.27-07.25.23:829][468]LogAudioMixer: Display: 7: SideRight
+[2022.06.27-07.25.34:877][501]LogAudioMixer: Resetting audio stream to device id 
+[2022.06.27-07.25.34:893][501]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.27-07.25.34:893][501]LogAudioMixer: Display: 1: FrontRight
+[2022.06.27-07.25.34:893][501]LogAudioMixer: Display: 2: FrontCenter
+[2022.06.27-07.25.34:893][501]LogAudioMixer: Display: 3: LowFrequency
+[2022.06.27-07.25.34:893][501]LogAudioMixer: Display: 4: BackLeft
+[2022.06.27-07.25.34:893][501]LogAudioMixer: Display: 5: BackRight
+[2022.06.27-07.25.34:893][501]LogAudioMixer: Display: 6: SideLeft
+[2022.06.27-07.25.34:893][501]LogAudioMixer: Display: 7: SideRight
+[2022.06.27-14.59.33:736][502]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.06.27-14.59.33:800][502]LogAudioMixer: Resetting audio stream to device id 
+[2022.06.27-14.59.33:855][502]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.27-14.59.33:855][502]LogAudioMixer: Display: 1: FrontRight
+[2022.06.27-14.59.33:855][502]LogAudioMixer: Display: 2: FrontCenter
+[2022.06.27-14.59.33:855][502]LogAudioMixer: Display: 3: LowFrequency
+[2022.06.27-14.59.33:855][502]LogAudioMixer: Display: 4: BackLeft
+[2022.06.27-14.59.33:855][502]LogAudioMixer: Display: 5: BackRight
+[2022.06.27-14.59.33:855][502]LogAudioMixer: Display: 6: SideLeft
+[2022.06.27-14.59.33:855][502]LogAudioMixer: Display: 7: SideRight
+[2022.06.27-14.59.34:794][506]LogHttp: Warning: 000001B1B71EF900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B17F772D5-4CBB-DBC4-E0E8-A1AF4276EF00%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=6d06402449504bd1d24a7f8acf343570%7C4fcce09f56e44f2789879177862ee5b6%7C129b0cef-f345-4295-83d4-fdb94a9184b2&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.27-14.59.34:796][506]LogHttp: Warning: 000001B1B71EF900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.27-14.59.34:797][506]LogHttp: Warning: 000001B1B71EF900: libcurl info message cache 0 (Connection 3 seems to be dead!)
+[2022.06.27-14.59.34:798][506]LogHttp: Warning: 000001B1B71EF900: libcurl info message cache 1 (Closing connection 3)
+[2022.06.27-14.59.34:798][506]LogHttp: Warning: 000001B1B71EF900: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.27-14.59.34:798][506]LogHttp: Warning: 000001B1B71EF900: libcurl info message cache 3 (Closing connection 4)
+[2022.06.27-14.59.35:125][507]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B17F772D5-4CBB-DBC4-E0E8-A1AF4276EF00%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=6d06402449504bd1d24a7f8acf343570%7C4fcce09f56e44f2789879177862ee5b6%7C129b0cef-f345-4295-83d4-fdb94a9184b2&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.27-15.02.44:829][ 72]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.06.27-15.03.29:579][205]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.06.27-15.05.11:076][507]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.06.27-15.05.21:126][537]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.06.27-15.07.59:706][  9]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.06.27-15.26.10:568][256]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.06.27-16.12.42:466][581]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.06.27-16.12.57:955][627]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.06.27-16.13.24:466][706]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.06.27-16.42.26:121][906]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.06.27-16.53.16:027][974]LogUObjectHash: Compacting FUObjectHashTables data took  23.15ms
+[2022.06.27-16.54.10:632][474]BlueprintLog: New page: Compile W_Settings
+[2022.06.27-16.54.10:949][474]LogUObjectHash: Compacting FUObjectHashTables data took   9.75ms
+[2022.06.27-16.54.11:530][474]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/W_Settings3C26110E4A9F54D7BF69FEB960D9ABFF.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Settings.uasset'
+[2022.06.27-16.54.11:672][474]AssetCheck: New page: Asset Save: W_Settings
+[2022.06.27-16.54.11:673][474]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Settings.W_Settings
+[2022.06.27-16.54.12:573][528]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/W_Settings67A4BC8C468539A6AA5F54820ACECB70.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Settings.uasset'
+[2022.06.27-16.54.12:588][528]AssetCheck: New page: Asset Save: W_Settings
+[2022.06.27-16.54.12:588][528]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Settings.W_Settings
+[2022.06.27-16.54.21:079][225]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2022.06.27-16.54.21:162][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.06.27-16.54.21:184][225]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/NewMap87F4FED844022747B9C33F83CF90E959.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap.umap'
+[2022.06.27-16.54.21:214][225]LogFileHelpers: Saving map 'NewMap' took 0.104
+[2022.06.27-16.54.21:420][225]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/W_Settings651827FD44FE19547387D4A24925BC7B.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Settings.uasset'
+[2022.06.27-16.54.21:436][225]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.27-16.54.21:436][225]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Settings.W_Settings
+[2022.06.27-16.54.21:455][225]LogContentValidation: Display: Validating World /Game/DevelopmentTestMap/NewMap.NewMap
+[2022.06.27-16.54.21:564][233]BlueprintLog: New page: Compile W_Settings
+[2022.06.27-16.54.21:746][233]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2022.06.27-16.54.22:273][246]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/W_SettingsABCB0E9E4A800CE140AC409AAE745393.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Settings.uasset'
+[2022.06.27-16.54.22:296][246]AssetCheck: New page: Asset Save: W_Settings
+[2022.06.27-16.54.22:296][246]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Settings.W_Settings
+[2022.06.27-17.02.27:957][778]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.06.27-17.04.21:541][115]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2022.06.27-17.04.21:551][115]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/NewMap_Auto6B58EE5184A816D650FAF11A02BBB25E8.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/Autosaves/Game/DevelopmentTestMap/NewMap_Auto6.umap'
+[2022.06.27-17.04.21:552][115]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DevelopmentTestMap/NewMap' took 0.080
+[2022.06.27-17.04.21:553][115]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.080
+[2022.06.27-17.04.58:201][225]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.06.27-17.35.34:501][151]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.06.27-17.35.55:763][734]LogSlate: Window 'Project Settings' being destroyed
+[2022.06.27-17.35.55:773][734]LogSlate: Window 'Project Settings' being destroyed
+[2022.06.27-17.36.15:113][697]LogUObjectHash: Compacting FUObjectHashTables data took   8.14ms
+[2022.06.27-17.36.15:233][697]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2022.06.27-17.36.15:245][697]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/NewMapAE5A7B9F41E54F742893829E9C5A636F.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap.umap'
+[2022.06.27-17.36.15:257][697]LogFileHelpers: Saving map 'NewMap' took 0.083
+[2022.06.27-17.36.15:275][697]AssetCheck: New page: Asset Save: NewMap
+[2022.06.27-17.36.15:275][697]LogContentValidation: Display: Validating World /Game/DevelopmentTestMap/NewMap.NewMap
+[2022.06.27-17.36.16:249][772]BlueprintLog: New page: Compile W_Settings
+[2022.06.27-17.36.16:485][772]LogUObjectHash: Compacting FUObjectHashTables data took   7.29ms
+[2022.06.27-17.36.17:011][773]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/W_Settings9391185745AA2C9E3370F6A337067030.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Settings.uasset'
+[2022.06.27-17.36.17:034][773]AssetCheck: New page: Asset Save: W_Settings
+[2022.06.27-17.36.17:034][773]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/W_Settings.W_Settings
+[2022.06.27-17.46.15:966][714]LogUObjectHash: Compacting FUObjectHashTables data took   7.82ms
+[2022.06.27-17.46.15:981][714]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/NewMap_Auto71C426BE74C8E7392AC7A1C8CA0B24CE6.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/Autosaves/Game/DevelopmentTestMap/NewMap_Auto7.umap'
+[2022.06.27-17.46.15:982][714]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DevelopmentTestMap/NewMap' took 0.123
+[2022.06.27-17.46.15:982][714]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.123
+[2022.06.27-18.34.46:693][408]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.06.27-19.02.31:295][366]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.06.27-19.53.05:083][408]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.06.27-20.02.05:096][ 22]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.06.27-20.11.37:477][732]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.06.27-20.42.06:634][184]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.06.27-20.51.08:203][795]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.06.27-21.06.13:351][490]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.06.27-22.01.54:436][439]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.06.27-22.32.59:562][997]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.06.27-23.08.12:289][299]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.06.28-02.10.42:852][ 14]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.06.28-02.42.58:195][804]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.06.28-05.23.55:396][617]LogHttp: Warning: 000001B1D589DD00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B17F772D5-4CBB-DBC4-E0E8-A1AF4276EF00%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=6d06402449504bd1d24a7f8acf343570%7C4fcce09f56e44f2789879177862ee5b6%7C129b0cef-f345-4295-83d4-fdb94a9184b2&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.28-05.23.55:396][617]LogHttp: Warning: 000001B1D589DD00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.06.28-05.23.55:396][617]LogHttp: Warning: 000001B1D589DD00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1b098ed5540 [can pipeline])
+[2022.06.28-05.23.55:397][617]LogHttp: Warning: 000001B1D589DD00: libcurl info message cache 1 (Re-using existing connection! (#5) with host datarouter.ol.epicgames.com)
+[2022.06.28-05.23.55:397][617]LogHttp: Warning: 000001B1D589DD00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.2.155.34) port 443 (#5))
+[2022.06.28-05.23.55:397][617]LogHttp: Warning: 000001B1D589DD00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.06.28-05.23.55:397][617]LogHttp: Warning: 000001B1D589DD00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.06.28-05.23.55:397][617]LogHttp: Warning: 000001B1D589DD00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.06.28-05.23.55:397][617]LogHttp: Warning: 000001B1D589DD00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.06.28-05.23.55:397][617]LogHttp: Warning: 000001B1D589DD00: libcurl info message cache 7 (Closing connection 5)
+[2022.06.28-05.23.55:397][617]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B17F772D5-4CBB-DBC4-E0E8-A1AF4276EF00%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=6d06402449504bd1d24a7f8acf343570%7C4fcce09f56e44f2789879177862ee5b6%7C129b0cef-f345-4295-83d4-fdb94a9184b2&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.28-06.26.11:797][963]LogAudioMixer: Resetting audio stream to device id 
+[2022.06.28-06.26.11:817][963]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.28-06.26.11:817][963]LogAudioMixer: Display: 1: FrontRight
+[2022.06.28-06.26.11:817][963]LogAudioMixer: Display: 2: FrontCenter
+[2022.06.28-06.26.11:817][963]LogAudioMixer: Display: 3: LowFrequency
+[2022.06.28-06.26.11:817][963]LogAudioMixer: Display: 4: BackLeft
+[2022.06.28-06.26.11:817][963]LogAudioMixer: Display: 5: BackRight
+[2022.06.28-06.26.11:817][963]LogAudioMixer: Display: 6: SideLeft
+[2022.06.28-06.26.11:817][963]LogAudioMixer: Display: 7: SideRight
+[2022.06.28-17.27.06:382][976]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.06.28-17.27.06:383][976]LogAudioMixer: Resetting audio stream to device id 
+[2022.06.28-17.27.06:451][976]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.28-17.27.06:452][976]LogAudioMixer: Display: 1: FrontRight
+[2022.06.28-17.27.06:452][976]LogAudioMixer: Display: 2: FrontCenter
+[2022.06.28-17.27.06:452][976]LogAudioMixer: Display: 3: LowFrequency
+[2022.06.28-17.27.06:452][976]LogAudioMixer: Display: 4: BackLeft
+[2022.06.28-17.27.06:452][976]LogAudioMixer: Display: 5: BackRight
+[2022.06.28-17.27.06:452][976]LogAudioMixer: Display: 6: SideLeft
+[2022.06.28-17.27.06:452][976]LogAudioMixer: Display: 7: SideRight
+[2022.06.28-17.27.07:145][979]LogHttp: Warning: 000001B25618F900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B17F772D5-4CBB-DBC4-E0E8-A1AF4276EF00%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=6d06402449504bd1d24a7f8acf343570%7C4fcce09f56e44f2789879177862ee5b6%7C129b0cef-f345-4295-83d4-fdb94a9184b2&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.28-17.27.07:146][979]LogHttp: Warning: 000001B25618F900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.28-17.27.07:146][979]LogHttp: Warning: 000001B25618F900: libcurl info message cache 0 (Connection 7 seems to be dead!)
+[2022.06.28-17.27.07:146][979]LogHttp: Warning: 000001B25618F900: libcurl info message cache 1 (Closing connection 7)
+[2022.06.28-17.27.07:146][979]LogHttp: Warning: 000001B25618F900: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.28-17.27.07:146][979]LogHttp: Warning: 000001B25618F900: libcurl info message cache 3 (Closing connection 8)
+[2022.06.28-17.27.07:146][979]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B17F772D5-4CBB-DBC4-E0E8-A1AF4276EF00%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=6d06402449504bd1d24a7f8acf343570%7C4fcce09f56e44f2789879177862ee5b6%7C129b0cef-f345-4295-83d4-fdb94a9184b2&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.28-21.20.51:094][828]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.06.28-21.49.58:656][ 59]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.06.29-02.38.12:231][395]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.06.29-03.14.54:848][983]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.06.29-03.24.50:973][763]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.06.29-03.38.13:584][164]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.06.29-04.03.59:914][772]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.06.29-04.36.57:116][667]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.06.29-04.39.18:365][ 89]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.06.29-04.52.00:348][363]LogHttp: Warning: 000001B1B7B36400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B17F772D5-4CBB-DBC4-E0E8-A1AF4276EF00%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=6d06402449504bd1d24a7f8acf343570%7C4fcce09f56e44f2789879177862ee5b6%7C129b0cef-f345-4295-83d4-fdb94a9184b2&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.29-04.52.00:349][363]LogHttp: Warning: 000001B1B7B36400: request failed, libcurl error: 55 (Failed sending data to the peer)
+[2022.06.29-04.52.00:349][363]LogHttp: Warning: 000001B1B7B36400: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1b098ed45b0 [can pipeline])
+[2022.06.29-04.52.00:349][363]LogHttp: Warning: 000001B1B7B36400: libcurl info message cache 1 (Re-using existing connection! (#9) with host datarouter.ol.epicgames.com)
+[2022.06.29-04.52.00:349][363]LogHttp: Warning: 000001B1B7B36400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.84.157.179) port 443 (#9))
+[2022.06.29-04.52.00:349][363]LogHttp: Warning: 000001B1B7B36400: libcurl info message cache 3 (SSL_write() returned SYSCALL, errno = 10054)
+[2022.06.29-04.52.00:349][363]LogHttp: Warning: 000001B1B7B36400: libcurl info message cache 4 (Closing connection 9)
+[2022.06.29-04.52.00:349][363]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B17F772D5-4CBB-DBC4-E0E8-A1AF4276EF00%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=6d06402449504bd1d24a7f8acf343570%7C4fcce09f56e44f2789879177862ee5b6%7C129b0cef-f345-4295-83d4-fdb94a9184b2&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.06.29-05.46.45:035][406]LogUObjectHash: Compacting FUObjectHashTables data took  14.73ms
+[2022.06.29-05.46.45:139][406]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/NewMap50ED2AE34115A777C84E9EAF3814E5EA.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap.umap'
+[2022.06.29-05.46.45:171][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DevelopmentTestMap/NewMap_BuiltData" FILE="../../../../../Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap_BuiltData.uasset" SILENT=true
+[2022.06.29-05.46.45:209][406]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/NewMap_BuiltData5CEDDFAF447927A92B88B2A204C7BF09.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap_BuiltData.uasset'
+[2022.06.29-05.46.45:230][406]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.29-05.46.45:230][406]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/DevelopmentTestMap/NewMap_BuiltData.NewMap_BuiltData
+[2022.06.29-05.46.45:231][406]LogContentValidation: Display: Validating World /Game/DevelopmentTestMap/NewMap.NewMap
+[2022.06.29-05.46.45:558][441]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.29-05.46.45:575][441]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.29-05.46.45:577][441]PIE: New page: PIE session: NewMap (Jun 28, 2022, 3:46:45 PM)
+[2022.06.29-05.46.45:629][441]LogPlayLevel: Creating play world package: /Game/DevelopmentTestMap/UEDPIE_0_NewMap
+[2022.06.29-05.46.45:697][441]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065635s)
+[2022.06.29-05.46.45:723][441]LogAIModule: Creating AISystem for world NewMap
+[2022.06.29-05.46.45:730][441]LogPlayLevel: PIE: World Init took: (0.033862s)
+[2022.06.29-05.46.45:731][441]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DevelopmentTestMap/NewMap.NewMap to /Game/DevelopmentTestMap/UEDPIE_0_NewMap.NewMap (0.101742s)
+[2022.06.29-05.46.45:780][441]LogUObjectHash: Compacting FUObjectHashTables data took   6.89ms
+[2022.06.29-05.46.45:785][441]LogAudio: Display: Creating Audio Device:                 Id: 116, Scope: Unique, Realtime: True
+[2022.06.29-05.46.45:786][441]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.29-05.46.45:786][441]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.29-05.46.45:786][441]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.29-05.46.45:787][441]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.29-05.46.45:787][441]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.29-05.46.45:787][441]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.29-05.46.45:787][441]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.29-05.46.45:787][441]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.29-05.46.45:790][441]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.29-05.46.45:790][441]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.29-05.46.45:790][441]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.29-05.46.45:790][441]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.29-05.46.45:821][441]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.29-05.46.45:821][441]LogAudioMixer: Display: 1: FrontRight
+[2022.06.29-05.46.45:821][441]LogAudioMixer: Display: 2: FrontCenter
+[2022.06.29-05.46.45:821][441]LogAudioMixer: Display: 3: LowFrequency
+[2022.06.29-05.46.45:821][441]LogAudioMixer: Display: 4: BackLeft
+[2022.06.29-05.46.45:821][441]LogAudioMixer: Display: 5: BackRight
+[2022.06.29-05.46.45:821][441]LogAudioMixer: Display: 6: SideLeft
+[2022.06.29-05.46.45:821][441]LogAudioMixer: Display: 7: SideRight
+[2022.06.29-05.46.45:833][441]LogAudioMixer: Display: Using Audio Device Speakers (3- Logitech G935/G933s Gaming Headset)
+[2022.06.29-05.46.45:845][441]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.29-05.46.45:845][441]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.29-05.46.45:846][441]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.29-05.46.45:848][441]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.29-05.46.45:848][441]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.29-05.46.45:849][441]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.06.29-05.46.45:853][441]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.29-05.46.45:853][441]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.29-05.46.45:853][441]LogInit: FAudioDevice initialized.
+[2022.06.29-05.46.45:853][441]LogAudio: Display: Audio Device (ID: 116) registered with world 'NewMap'.
+[2022.06.29-05.46.45:888][441]LogLoad: Game class is 'GM_COOP_BarricadedSuspects_C'
+[2022.06.29-05.46.45:902][441]LogWorld: Bringing World /Game/DevelopmentTestMap/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2022.06.28-22.46.45
+[2022.06.29-05.46.45:904][441]LogWorld: Bringing up level for play took: 0.012845
+[2022.06.29-05.46.45:909][441]LogOnline: OSS: Creating online subsystem instance for: :Context_134
+[2022.06.29-05.46.46:002][441]PIE: Server logged in
+[2022.06.29-05.46.46:004][441]PIE: Play in editor total start time 0.433 seconds.
+[2022.06.29-05.46.46:013][441]LogInput: Error: Duplicate mapping of key Gamepad_RightX for axis CameraMod_LookRight
+[2022.06.29-05.46.46:013][441]LogInput: Error: Duplicate mapping of key None for axis CameraMod_CameraSpeed
+[2022.06.29-05.46.46:392][481]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.06.29-05.46.46:392][481]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.06.29-05.46.46:394][481]Cmd: r.Motionblurquality 4
+[2022.06.29-05.46.46:402][481]r.MotionBlurQuality = "4"
+[2022.06.29-05.46.47:705][635]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.06.29-05.46.47:705][635]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.06.29-05.46.47:886][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.29-05.46.47:886][652]LogWorld: BeginTearingDown for /Game/DevelopmentTestMap/UEDPIE_0_NewMap
+[2022.06.29-05.46.47:891][652]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.29-05.46.47:892][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.29-05.46.47:901][652]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.29-05.46.47:906][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.29-05.46.47:948][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.29-05.46.47:950][652]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.29-05.46.47:951][652]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.29-05.46.47:970][652]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2022.06.29-05.46.48:006][653]LogPlayLevel: Display: Destroying online subsystem :Context_134
+[2022.06.29-05.49.43:767][998]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.29-05.49.43:774][998]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.29-05.49.43:774][998]PIE: New page: PIE session: NewMap (Jun 28, 2022, 3:49:43 PM)
+[2022.06.29-05.49.43:776][998]LogPlayLevel: Creating play world package: /Game/DevelopmentTestMap/UEDPIE_0_NewMap
+[2022.06.29-05.49.43:783][998]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006459s)
+[2022.06.29-05.49.43:784][998]LogAIModule: Creating AISystem for world NewMap
+[2022.06.29-05.49.43:784][998]LogPlayLevel: PIE: World Init took: (0.000877s)
+[2022.06.29-05.49.43:784][998]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DevelopmentTestMap/NewMap.NewMap to /Game/DevelopmentTestMap/UEDPIE_0_NewMap.NewMap (0.007648s)
+[2022.06.29-05.49.43:831][998]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2022.06.29-05.49.43:833][998]LogAudio: Display: Creating Audio Device:                 Id: 117, Scope: Unique, Realtime: True
+[2022.06.29-05.49.43:833][998]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.29-05.49.43:833][998]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.29-05.49.43:833][998]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.29-05.49.43:833][998]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.29-05.49.43:833][998]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.29-05.49.43:833][998]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.29-05.49.43:833][998]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.29-05.49.43:833][998]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.29-05.49.43:834][998]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.29-05.49.43:834][998]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.29-05.49.43:834][998]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.29-05.49.43:834][998]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.29-05.49.43:837][998]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.29-05.49.43:837][998]LogAudioMixer: Display: 1: FrontRight
+[2022.06.29-05.49.43:837][998]LogAudioMixer: Display: 2: FrontCenter
+[2022.06.29-05.49.43:837][998]LogAudioMixer: Display: 3: LowFrequency
+[2022.06.29-05.49.43:837][998]LogAudioMixer: Display: 4: BackLeft
+[2022.06.29-05.49.43:837][998]LogAudioMixer: Display: 5: BackRight
+[2022.06.29-05.49.43:837][998]LogAudioMixer: Display: 6: SideLeft
+[2022.06.29-05.49.43:837][998]LogAudioMixer: Display: 7: SideRight
+[2022.06.29-05.49.43:846][998]LogAudioMixer: Display: Using Audio Device Speakers (3- Logitech G935/G933s Gaming Headset)
+[2022.06.29-05.49.43:846][998]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.29-05.49.43:846][998]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.29-05.49.43:846][998]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.29-05.49.43:847][998]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.29-05.49.43:847][998]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.29-05.49.43:847][998]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.06.29-05.49.43:848][998]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.29-05.49.43:848][998]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.29-05.49.43:848][998]LogInit: FAudioDevice initialized.
+[2022.06.29-05.49.43:848][998]LogAudio: Display: Audio Device (ID: 117) registered with world 'NewMap'.
+[2022.06.29-05.49.43:877][998]LogLoad: Game class is 'GM_COOP_BarricadedSuspects_C'
+[2022.06.29-05.49.43:879][998]LogWorld: Bringing World /Game/DevelopmentTestMap/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2022.06.28-22.49.43
+[2022.06.29-05.49.43:879][998]LogWorld: Bringing up level for play took: 0.000515
+[2022.06.29-05.49.43:879][998]LogOnline: OSS: Creating online subsystem instance for: :Context_135
+[2022.06.29-05.49.43:901][998]PIE: Server logged in
+[2022.06.29-05.49.43:901][998]PIE: Play in editor total start time 0.127 seconds.
+[2022.06.29-05.49.43:902][998]LogInput: Error: Duplicate mapping of key Gamepad_RightX for axis CameraMod_LookRight
+[2022.06.29-05.49.43:902][998]LogInput: Error: Duplicate mapping of key None for axis CameraMod_CameraSpeed
+[2022.06.29-05.49.45:435][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.29-05.49.45:435][156]LogWorld: BeginTearingDown for /Game/DevelopmentTestMap/UEDPIE_0_NewMap
+[2022.06.29-05.49.45:435][156]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.29-05.49.45:436][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.29-05.49.45:442][156]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.29-05.49.45:447][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.29-05.49.45:489][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.29-05.49.45:490][156]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.29-05.49.45:491][156]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.29-05.49.45:498][156]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.06.29-05.49.45:525][157]LogPlayLevel: Display: Destroying online subsystem :Context_135
+[2022.06.29-05.49.48:671][382]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.29-05.49.48:677][382]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.29-05.49.48:677][382]PIE: New page: PIE session: NewMap (Jun 28, 2022, 3:49:48 PM)
+[2022.06.29-05.49.48:678][382]LogPlayLevel: Creating play world package: /Game/DevelopmentTestMap/UEDPIE_0_NewMap
+[2022.06.29-05.49.48:680][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002954s)
+[2022.06.29-05.49.48:681][382]LogAIModule: Creating AISystem for world NewMap
+[2022.06.29-05.49.48:681][382]LogPlayLevel: PIE: World Init took: (0.000839s)
+[2022.06.29-05.49.48:681][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DevelopmentTestMap/NewMap.NewMap to /Game/DevelopmentTestMap/UEDPIE_0_NewMap.NewMap (0.003881s)
+[2022.06.29-05.49.48:723][382]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2022.06.29-05.49.48:724][382]LogAudio: Display: Creating Audio Device:                 Id: 118, Scope: Unique, Realtime: True
+[2022.06.29-05.49.48:724][382]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.29-05.49.48:724][382]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.29-05.49.48:724][382]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.29-05.49.48:724][382]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.29-05.49.48:724][382]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.29-05.49.48:724][382]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.29-05.49.48:724][382]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.29-05.49.48:724][382]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.29-05.49.48:724][382]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.29-05.49.48:724][382]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.29-05.49.48:724][382]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.29-05.49.48:724][382]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.29-05.49.48:728][382]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.29-05.49.48:728][382]LogAudioMixer: Display: 1: FrontRight
+[2022.06.29-05.49.48:728][382]LogAudioMixer: Display: 2: FrontCenter
+[2022.06.29-05.49.48:728][382]LogAudioMixer: Display: 3: LowFrequency
+[2022.06.29-05.49.48:728][382]LogAudioMixer: Display: 4: BackLeft
+[2022.06.29-05.49.48:728][382]LogAudioMixer: Display: 5: BackRight
+[2022.06.29-05.49.48:728][382]LogAudioMixer: Display: 6: SideLeft
+[2022.06.29-05.49.48:728][382]LogAudioMixer: Display: 7: SideRight
+[2022.06.29-05.49.48:736][382]LogAudioMixer: Display: Using Audio Device Speakers (3- Logitech G935/G933s Gaming Headset)
+[2022.06.29-05.49.48:736][382]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.29-05.49.48:736][382]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.29-05.49.48:736][382]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.29-05.49.48:737][382]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.29-05.49.48:737][382]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.29-05.49.48:737][382]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.06.29-05.49.48:737][382]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.29-05.49.48:737][382]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.29-05.49.48:737][382]LogInit: FAudioDevice initialized.
+[2022.06.29-05.49.48:737][382]LogAudio: Display: Audio Device (ID: 118) registered with world 'NewMap'.
+[2022.06.29-05.49.48:789][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.29-05.49.48:790][382]LogLoad: Game class is 'GM_COOP_BarricadedSuspects_C'
+[2022.06.29-05.49.48:791][382]LogWorld: Bringing World /Game/DevelopmentTestMap/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2022.06.28-22.49.48
+[2022.06.29-05.49.48:791][382]LogWorld: Bringing up level for play took: 0.000576
+[2022.06.29-05.49.48:791][382]LogOnline: OSS: Creating online subsystem instance for: :Context_136
+[2022.06.29-05.49.48:822][382]PIE: Server logged in
+[2022.06.29-05.49.48:829][382]PIE: Play in editor total start time 0.152 seconds.
+[2022.06.29-05.49.48:829][382]LogInput: Error: Duplicate mapping of key Gamepad_RightX for axis CameraMod_LookRight
+[2022.06.29-05.49.48:829][382]LogInput: Error: Duplicate mapping of key None for axis CameraMod_CameraSpeed
+[2022.06.29-05.49.49:800][451]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.06.29-05.49.49:800][451]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.06.29-05.49.49:804][451]Cmd: r.Motionblurquality 4
+[2022.06.29-05.49.49:804][451]r.MotionBlurQuality = "4"
+[2022.06.29-05.50.32:730][477]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.06.29-05.50.32:730][477]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.06.29-05.50.37:023][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.29-05.50.37:023][786]LogWorld: BeginTearingDown for /Game/DevelopmentTestMap/UEDPIE_0_NewMap
+[2022.06.29-05.50.37:024][786]LogSlate: Window 'RoNCameraMod Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.29-05.50.37:033][786]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.29-05.50.37:033][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.29-05.50.37:053][786]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.29-05.50.37:059][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.29-05.50.37:104][786]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.29-05.50.37:105][786]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.29-05.50.37:111][786]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2022.06.29-05.50.37:137][787]LogPlayLevel: Display: Destroying online subsystem :Context_136
+[2022.06.29-05.50.50:061][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.06.29-05.50.50:246][985]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/QuantumActor0EF16E2F4396D8A2451F23A97BF57F05.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/QuantumActor.uasset'
+[2022.06.29-05.50.50:263][985]AssetCheck: New page: Asset Save: QuantumActor
+[2022.06.29-05.50.50:263][985]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/QuantumActor.QuantumActor
+[2022.06.29-05.52.10:898][  7]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2022.06.29-05.52.10:955][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.06.29-05.52.10:963][  7]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/NewMap2C5053ED4AEF8CAFFB010A85F0181A40.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap.umap'
+[2022.06.29-05.52.10:973][  7]LogFileHelpers: Saving map 'NewMap' took 0.057
+[2022.06.29-05.52.11:001][  7]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/QuantumActor948E59194561A8283444AA939D840299.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/QuantumActor.uasset'
+[2022.06.29-05.52.11:014][  7]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.29-05.52.11:014][  7]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/QuantumActor.QuantumActor
+[2022.06.29-05.52.11:014][  7]LogContentValidation: Display: Validating World /Game/DevelopmentTestMap/NewMap.NewMap
+[2022.06.29-05.52.24:234][523]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2022.06.29-05.52.24:304][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.06.29-05.52.24:312][523]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/NewMap8B03D831464D52EAFE6360AB0477C496.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap.umap'
+[2022.06.29-05.52.24:322][523]LogFileHelpers: Saving map 'NewMap' took 0.059
+[2022.06.29-05.52.24:349][523]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/QuantumActor1AC9D5C14CD8BB6C0A3B46985F6EF9C8.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/QuantumActor.uasset'
+[2022.06.29-05.52.24:363][523]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.29-05.52.24:363][523]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/QuantumActor.QuantumActor
+[2022.06.29-05.52.24:363][523]LogContentValidation: Display: Validating World /Game/DevelopmentTestMap/NewMap.NewMap
+[2022.06.29-05.52.25:188][613]BlueprintLog: New page: Compile QuantumActor
+[2022.06.29-05.52.25:313][613]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2022.06.29-05.52.25:944][668]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/QuantumActor6E023EC64A4365F69389AC9EFBAEF559.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/QuantumActor.uasset'
+[2022.06.29-05.52.25:959][668]AssetCheck: New page: Asset Save: QuantumActor
+[2022.06.29-05.52.25:959][668]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/QuantumActor.QuantumActor
+[2022.06.29-05.52.26:085][677]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2022.06.29-05.52.26:141][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.06.29-05.52.26:149][677]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/NewMapACA80C0B49FFA81D3457859405FF1287.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap.umap'
+[2022.06.29-05.52.26:158][677]LogFileHelpers: Saving map 'NewMap' took 0.057
+[2022.06.29-05.52.26:172][677]AssetCheck: New page: Asset Save: NewMap
+[2022.06.29-05.52.26:172][677]LogContentValidation: Display: Validating World /Game/DevelopmentTestMap/NewMap.NewMap
+[2022.06.29-05.53.14:723][155]BlueprintLog: New page: Compile P_DebugPawn
+[2022.06.29-05.53.14:906][155]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2022.06.29-05.53.15:562][156]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawnC03F5D5941C483876785418085D041F8.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.29-05.53.15:577][156]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.29-05.53.15:577][156]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.29-05.53.20:398][589]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2022.06.29-05.53.20:460][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.06.29-05.53.20:468][589]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/NewMapE953E1444B288EE7205FFAAB090B5B56.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap.umap'
+[2022.06.29-05.53.20:478][589]LogFileHelpers: Saving map 'NewMap' took 0.057
+[2022.06.29-05.53.20:493][589]AssetCheck: New page: Asset Save: NewMap
+[2022.06.29-05.53.20:493][589]LogContentValidation: Display: Validating World /Game/DevelopmentTestMap/NewMap.NewMap
+[2022.06.29-05.53.29:749][403]BlueprintLog: New page: Compile P_DebugPawn
+[2022.06.29-05.53.29:866][403]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2022.06.29-05.53.30:622][417]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/P_DebugPawnBC056F934829B4950D2059BC56CA3ED8.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.uasset'
+[2022.06.29-05.53.30:639][417]AssetCheck: New page: Asset Save: P_DebugPawn
+[2022.06.29-05.53.30:639][417]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Logic/DataStructures/ReadyOrNotWidget/Debug/P_DebugPawn.P_DebugPawn
+[2022.06.29-05.53.30:727][418]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2022.06.29-05.53.30:795][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.06.29-05.53.30:803][418]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/RoNCameraMod/Saved/NewMap3D7BD15F4E45390C9A24938A0CD75A3F.tmp' to '../../../../../Documents/Unreal Projects/RoNCameraMod/Content/DevelopmentTestMap/NewMap.umap'
+[2022.06.29-05.53.30:812][418]LogFileHelpers: Saving map 'NewMap' took 0.057
+[2022.06.29-05.53.30:827][418]AssetCheck: New page: Asset Save: NewMap
+[2022.06.29-05.53.30:827][418]LogContentValidation: Display: Validating World /Game/DevelopmentTestMap/NewMap.NewMap
+[2022.06.29-05.56.34:546][368]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.29-05.56.34:553][368]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.29-05.56.34:553][368]PIE: New page: PIE session: NewMap (Jun 28, 2022, 3:56:34 PM)
+[2022.06.29-05.56.34:555][368]LogPlayLevel: Creating play world package: /Game/DevelopmentTestMap/UEDPIE_0_NewMap
+[2022.06.29-05.56.34:558][368]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002869s)
+[2022.06.29-05.56.34:558][368]LogAIModule: Creating AISystem for world NewMap
+[2022.06.29-05.56.34:559][368]LogPlayLevel: PIE: World Init took: (0.000872s)
+[2022.06.29-05.56.34:559][368]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DevelopmentTestMap/NewMap.NewMap to /Game/DevelopmentTestMap/UEDPIE_0_NewMap.NewMap (0.003841s)
+[2022.06.29-05.56.34:603][368]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2022.06.29-05.56.34:603][368]LogAudio: Display: Creating Audio Device:                 Id: 119, Scope: Unique, Realtime: True
+[2022.06.29-05.56.34:603][368]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.29-05.56.34:603][368]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.29-05.56.34:603][368]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.29-05.56.34:603][368]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.29-05.56.34:603][368]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.29-05.56.34:603][368]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.29-05.56.34:603][368]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.29-05.56.34:603][368]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.29-05.56.34:604][368]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.29-05.56.34:604][368]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.29-05.56.34:604][368]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.29-05.56.34:604][368]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.29-05.56.34:608][368]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.29-05.56.34:608][368]LogAudioMixer: Display: 1: FrontRight
+[2022.06.29-05.56.34:608][368]LogAudioMixer: Display: 2: FrontCenter
+[2022.06.29-05.56.34:608][368]LogAudioMixer: Display: 3: LowFrequency
+[2022.06.29-05.56.34:608][368]LogAudioMixer: Display: 4: BackLeft
+[2022.06.29-05.56.34:608][368]LogAudioMixer: Display: 5: BackRight
+[2022.06.29-05.56.34:608][368]LogAudioMixer: Display: 6: SideLeft
+[2022.06.29-05.56.34:608][368]LogAudioMixer: Display: 7: SideRight
+[2022.06.29-05.56.34:617][368]LogAudioMixer: Display: Using Audio Device Speakers (3- Logitech G935/G933s Gaming Headset)
+[2022.06.29-05.56.34:617][368]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.29-05.56.34:617][368]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.29-05.56.34:617][368]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.29-05.56.34:617][368]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.29-05.56.34:617][368]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.29-05.56.34:617][368]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.06.29-05.56.34:618][368]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.29-05.56.34:618][368]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.29-05.56.34:618][368]LogInit: FAudioDevice initialized.
+[2022.06.29-05.56.34:618][368]LogAudio: Display: Audio Device (ID: 119) registered with world 'NewMap'.
+[2022.06.29-05.56.34:668][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.29-05.56.34:668][368]LogLoad: Game class is 'GM_COOP_BarricadedSuspects_C'
+[2022.06.29-05.56.34:669][368]LogWorld: Bringing World /Game/DevelopmentTestMap/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2022.06.28-22.56.34
+[2022.06.29-05.56.34:669][368]LogWorld: Bringing up level for play took: 0.000648
+[2022.06.29-05.56.34:669][368]LogOnline: OSS: Creating online subsystem instance for: :Context_137
+[2022.06.29-05.56.34:698][368]PIE: Server logged in
+[2022.06.29-05.56.34:700][368]PIE: Play in editor total start time 0.147 seconds.
+[2022.06.29-05.56.34:700][368]LogInput: Error: Duplicate mapping of key Gamepad_RightX for axis CameraMod_LookRight
+[2022.06.29-05.56.34:700][368]LogInput: Error: Duplicate mapping of key None for axis CameraMod_CameraSpeed
+[2022.06.29-05.56.38:028][612]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.06.29-05.56.38:028][612]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.06.29-05.56.38:031][612]Cmd: r.Motionblurquality 4
+[2022.06.29-05.56.38:031][612]r.MotionBlurQuality = "4"
+[2022.06.29-05.59.04:263][878]LogSlate: Window 'RoNCameraMod Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.06.29-05.59.04:290][878]LogWorld: BeginTearingDown for /Game/DevelopmentTestMap/UEDPIE_0_NewMap
+[2022.06.29-05.59.04:315][878]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.29-05.59.04:315][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.29-05.59.04:320][878]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.29-05.59.04:327][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.29-05.59.04:369][878]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.29-05.59.04:370][878]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.29-05.59.04:376][878]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2022.06.29-05.59.04:611][879]LogPlayLevel: Display: Destroying online subsystem :Context_137
+[2022.06.29-05.59.52:570][556]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.29-05.59.52:576][556]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.29-05.59.52:576][556]PIE: New page: PIE session: NewMap (Jun 28, 2022, 3:59:52 PM)
+[2022.06.29-05.59.52:604][556]LogPlayLevel: Creating play world package: /Game/DevelopmentTestMap/UEDPIE_0_NewMap
+[2022.06.29-05.59.52:607][556]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002900s)
+[2022.06.29-05.59.52:607][556]LogAIModule: Creating AISystem for world NewMap
+[2022.06.29-05.59.52:608][556]LogPlayLevel: PIE: World Init took: (0.000741s)
+[2022.06.29-05.59.52:608][556]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DevelopmentTestMap/NewMap.NewMap to /Game/DevelopmentTestMap/UEDPIE_0_NewMap.NewMap (0.003748s)
+[2022.06.29-05.59.52:649][556]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2022.06.29-05.59.52:651][556]LogAudio: Display: Creating Audio Device:                 Id: 120, Scope: Unique, Realtime: True
+[2022.06.29-05.59.52:651][556]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.29-05.59.52:651][556]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.29-05.59.52:651][556]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.29-05.59.52:651][556]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.29-05.59.52:651][556]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.29-05.59.52:651][556]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.29-05.59.52:651][556]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.29-05.59.52:651][556]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.29-05.59.52:652][556]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.29-05.59.52:652][556]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.29-05.59.52:652][556]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.29-05.59.52:652][556]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.29-05.59.52:655][556]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.29-05.59.52:655][556]LogAudioMixer: Display: 1: FrontRight
+[2022.06.29-05.59.52:655][556]LogAudioMixer: Display: 2: FrontCenter
+[2022.06.29-05.59.52:655][556]LogAudioMixer: Display: 3: LowFrequency
+[2022.06.29-05.59.52:655][556]LogAudioMixer: Display: 4: BackLeft
+[2022.06.29-05.59.52:655][556]LogAudioMixer: Display: 5: BackRight
+[2022.06.29-05.59.52:655][556]LogAudioMixer: Display: 6: SideLeft
+[2022.06.29-05.59.52:655][556]LogAudioMixer: Display: 7: SideRight
+[2022.06.29-05.59.52:663][556]LogAudioMixer: Display: Using Audio Device Speakers (3- Logitech G935/G933s Gaming Headset)
+[2022.06.29-05.59.52:663][556]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.29-05.59.52:663][556]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.29-05.59.52:663][556]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.29-05.59.52:664][556]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.29-05.59.52:664][556]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.29-05.59.52:664][556]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.06.29-05.59.52:664][556]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.29-05.59.52:664][556]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.29-05.59.52:664][556]LogInit: FAudioDevice initialized.
+[2022.06.29-05.59.52:664][556]LogAudio: Display: Audio Device (ID: 120) registered with world 'NewMap'.
+[2022.06.29-05.59.52:686][556]LogLoad: Game class is 'GM_COOP_BarricadedSuspects_C'
+[2022.06.29-05.59.52:687][556]LogWorld: Bringing World /Game/DevelopmentTestMap/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2022.06.28-22.59.52
+[2022.06.29-05.59.52:687][556]LogWorld: Bringing up level for play took: 0.000522
+[2022.06.29-05.59.52:688][556]LogOnline: OSS: Creating online subsystem instance for: :Context_138
+[2022.06.29-05.59.52:709][556]PIE: Server logged in
+[2022.06.29-05.59.52:709][556]PIE: Play in editor total start time 0.134 seconds.
+[2022.06.29-05.59.52:710][556]LogInput: Error: Duplicate mapping of key Gamepad_RightX for axis CameraMod_LookRight
+[2022.06.29-05.59.52:710][556]LogInput: Error: Duplicate mapping of key None for axis CameraMod_CameraSpeed
+[2022.06.29-05.59.53:680][671]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.06.29-05.59.53:680][671]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.06.29-05.59.53:682][671]Cmd: r.Motionblurquality 4
+[2022.06.29-05.59.53:682][671]r.MotionBlurQuality = "4"
+[2022.06.29-05.59.54:276][742]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.06.29-05.59.54:276][742]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.06.29-05.59.54:552][775]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.06.29-05.59.54:552][775]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.06.29-05.59.54:553][775]Cmd: r.Motionblurquality 4
+[2022.06.29-05.59.54:553][775]r.MotionBlurQuality = "4"
+[2022.06.29-05.59.58:045][194]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.06.29-05.59.58:045][194]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.06.29-06.00.55:222][ 48]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.06.29-06.00.55:222][ 48]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.06.29-06.00.55:223][ 48]Cmd: r.Motionblurquality 4
+[2022.06.29-06.00.55:223][ 48]r.MotionBlurQuality = "4"
+[2022.06.29-06.00.57:594][310]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.06.29-06.00.57:594][310]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.06.29-06.00.57:784][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.29-06.00.57:784][328]LogWorld: BeginTearingDown for /Game/DevelopmentTestMap/UEDPIE_0_NewMap
+[2022.06.29-06.00.57:784][328]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.29-06.00.57:784][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.29-06.00.57:790][328]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.29-06.00.57:796][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.29-06.00.57:836][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.29-06.00.57:836][328]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.29-06.00.57:837][328]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.29-06.00.57:843][328]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.06.29-06.00.57:874][329]LogPlayLevel: Display: Destroying online subsystem :Context_138
+[2022.06.29-07.32.11:569][631]LogAudioMixer: Resetting audio stream to device id 
+[2022.06.29-07.32.11:579][631]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.29-07.32.11:579][631]LogAudioMixer: Display: 1: FrontRight
+[2022.06.29-07.32.11:579][631]LogAudioMixer: Display: 2: FrontCenter
+[2022.06.29-07.32.11:579][631]LogAudioMixer: Display: 3: LowFrequency
+[2022.06.29-07.32.11:579][631]LogAudioMixer: Display: 4: BackLeft
+[2022.06.29-07.32.11:579][631]LogAudioMixer: Display: 5: BackRight
+[2022.06.29-07.32.11:579][631]LogAudioMixer: Display: 6: SideLeft
+[2022.06.29-07.32.11:579][631]LogAudioMixer: Display: 7: SideRight
+[2022.06.29-16.01.34:765][661]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2022.06.29-16.01.35:588][661]LogAudioMixer: Resetting audio stream to device id 
+[2022.06.29-16.01.35:671][661]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.29-16.01.35:671][661]LogAudioMixer: Display: 1: FrontRight
+[2022.06.29-16.01.35:671][661]LogAudioMixer: Display: 2: FrontCenter
+[2022.06.29-16.01.35:671][661]LogAudioMixer: Display: 3: LowFrequency
+[2022.06.29-16.01.35:671][661]LogAudioMixer: Display: 4: BackLeft
+[2022.06.29-16.01.35:671][661]LogAudioMixer: Display: 5: BackRight
+[2022.06.29-16.01.35:671][661]LogAudioMixer: Display: 6: SideLeft
+[2022.06.29-16.01.35:671][661]LogAudioMixer: Display: 7: SideRight
+[2022.06.29-16.01.38:303][670]LogHttp: Warning: 000001B241D93900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B17F772D5-4CBB-DBC4-E0E8-A1AF4276EF00%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=6d06402449504bd1d24a7f8acf343570%7C4fcce09f56e44f2789879177862ee5b6%7C129b0cef-f345-4295-83d4-fdb94a9184b2&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.06.29-16.01.38:303][670]LogHttp: Warning: 000001B241D93900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.06.29-16.01.38:303][670]LogHttp: Warning: 000001B241D93900: libcurl info message cache 0 (Connection 12 seems to be dead!)
+[2022.06.29-16.01.38:303][670]LogHttp: Warning: 000001B241D93900: libcurl info message cache 1 (Closing connection 12)
+[2022.06.29-16.01.38:303][670]LogHttp: Warning: 000001B241D93900: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.06.29-16.01.38:303][670]LogHttp: Warning: 000001B241D93900: libcurl info message cache 3 (Closing connection 13)
+[2022.06.29-16.01.38:638][671]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B17F772D5-4CBB-DBC4-E0E8-A1AF4276EF00%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=6d06402449504bd1d24a7f8acf343570%7C4fcce09f56e44f2789879177862ee5b6%7C129b0cef-f345-4295-83d4-fdb94a9184b2&AppEnvironment=datacollector-binary&UploadType=eteventstream
